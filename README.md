@@ -1,6 +1,8 @@
 # Indigo.Design App Builder
 [Indigo.Design App Builder](https://appbuilder.indigo.design/) is a brand-new cloud-based WYSIWYG drag &amp; drop tool that helps teams design and build complete business apps faster than ever before. Part of Indigo.Design, the world’s only digital product design platform with a complete design-to-code solution.
 
+You can also join the discussion on our [Discord server](https://discord.gg/39MjrTRqds)!
+
 This repository is intended for issues and feature requests submission, as well as for general product discussions and questions.
 
 ## Tutorials
