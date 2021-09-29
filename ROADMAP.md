@@ -4,7 +4,6 @@
 - Upload Sketch file to Indigo Cloud from the Sketch plugin
 - Share and preview app from Indigo.Cloud
 - OpenAPI/Swagger Support (POC)
-- On-prem deployment
 
 ## Going down the road
 - Adding of “Grid” layout
