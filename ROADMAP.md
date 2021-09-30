@@ -6,7 +6,7 @@
 - OpenAPI/Swagger Support (POC)
 
 ## Going down the road
-- Adding of “Grid” layout
+- CSS grid layout support
 - Chart component in the Toolbox (financial/category)
 - Create sample apps with a Grid and Chart
 - TFS to Azure DevOps migration (indigodesigned codebase)
