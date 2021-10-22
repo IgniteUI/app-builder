@@ -1,3 +1,17 @@
+# October 2021 Release
+## FEATURES
+ - **Upload your images** to Assets library and share it across all apps in the same Workspace
+ - **Download uploaded images** used in the app when you publish or download app source code
+ - **Create app** directly from Sketch plugin
+## IMPROVEMENTS
+ - **Include REST endpoint URL** in the generated app instead of hard-coded JSON data
+ - **Extract images** available in your Sketch file and add it to Workspace assets library
+ - Added context menu for **Document outline** elements
+ - Show outermost container (View) as the root-level element in the **Document outline**
+ - Added tooltip explanations for **Image fit** and **Layout position** options
+## MAINTENANCE UPDATES & BUG FIXES
+ - General bug fixes and maintenance updates
+
 # September 2021 Release
 
 ## FEATURES
