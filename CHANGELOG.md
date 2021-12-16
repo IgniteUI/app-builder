@@ -1,3 +1,16 @@
+# December 2021 Release
+## FEATURES
+- Design and generate your app for Blazor (beta)
+- Install App Builder as a desktop app on Windows, macOS, and Linux
+- Added Indigo.Design UI kit for Adobe XD
+- Create an app from designs using our new Adobe XD plugin
+## IMPROVEMENTS
+- Updated the App Builder menu to manage your apps and group workspaces
+- Added support for Nested collection inside a response object
+- Added Export to Excel feature to Data-Grid component
+- Added automatic compression when uploading large images as assets
+- Sketch Plugin Updates - improved theming and "Create new app from Sketch" story
+
 # October 2021 Release
 ## FEATURES
  - **Upload your images** to Assets library and share it across all apps in the same Workspace
