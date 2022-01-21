@@ -1,3 +1,28 @@
+# January 2022 Release
+
+## IMPROVEMENTS
+- **Sketch UI Kit Improved Theming Support** - The light/dark mode toggle that changes the surface color now affects how gray colors are set up - as a derivative of black or white.
+- **UI Kits Version Check updates** - Now matching `<major>.<minor>` for consistency between parser dll and symbol. `<patch>` will be ignored and wont throw an error if the symbol version is higher than the parser version (#13942)
+
+## MAINTENANCE UPDATES & BUG FIXES
+**Including, but not limited to:**
+- Workspace title not updated
+- Create new workspace cancel shows invalid state
+- About dialog/Header/Account dialog improvements
+- Add template for data source search empty state
+- Move "View All" workspaces link out of the scrollable area
+- Consider a property as bound when type is Bound and data field is set(#14296)
+- Avoid data section for components with IsOverlay = true (#14305)
+- Fix custom list item content #14322
+- Notify visuals updates to update bounds and overlays (#14306)
+- Hide parent adorner while moving or resizing (#1388)
+- Limit zoom in/out actions (#14268)
+- Refresh main menu on new apps notified by realtime sync (#14295)
+- To work with the new way color variations are described in case a layer has fills, instead of setting style, the opacity modifies the color alpha to achieve the same color shade (#14552)
+- Parsing deeply nested groups and backgrounds throws an error (#13954)
+- People app parsing fix (#13905)
+- Dialog window navigation did not work ([GitHub issue](https://github.com/IgniteUI/app-builder/issues/7))
+
 # December 2021 Release
 ## FEATURES
 - Design and generate your app for Blazor (beta)
