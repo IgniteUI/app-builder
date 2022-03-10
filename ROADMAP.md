@@ -1,15 +1,10 @@
 # Roadmap - Indigo.Design App Builder
-## Current Iteration (Due by Dec, 2021)
- - Standalone App Builder Experience
- - Blazor support - transformers
- - Import XD assets upon app creation with App Builder
- - One level nested array binding support
- - App Builder Documentation split
- - Theming plugin Grays colors support (being able to switch light/dark theme)
+## Current Iteration (Due by March, 2022)
+- On-Premise version of App Builder
+- OpenAPI (Swagger) Support
 
 ## Going down the road
 - Share and preview app from Indigo.Cloud
-- OpenAPI/Swagger Support (POC)
 - CSS grid layout support
 - Chart component in the Toolbox (financial/category)
 - Create sample apps with a Grid and Chart
@@ -22,6 +17,19 @@
 - React and Web Components Code Generation
 
 ## Previous Iterations
+
+### Iteration 5
+- Sketch UI Kit Improved Theming Support - The light/dark mode toggle that changes the surface color now affects how gray colors are set up - as a derivative of black or white.
+- UI Kits Version Check updates - Now matching `<major>.<minor>` for consistency between parser dll and symbol. `<patch>` will be ignored and wont throw an error if the symbol version is higher than the parser version (#13942)
+- Maintenance updates and bug fixes
+
+### Iteration 4 - [blog](https://www.infragistics.com/community/blogs/b/jason_beres/posts/app-builder-release-with-blazor-desktop-app-and-more)
+- Design and generate your app for Blazor (beta)
+- Install App Builder as a desktop app on Windows, macOS, and Linux
+- Added Indigo.Design UI kit for Adobe XD
+- Create an app from designs using our new Adobe XD plugin
+- One level nested array binding support
+
 ### Iteration 3 - [blog](https://www.infragistics.com/community/blogs/b/jason_beres/posts/indigo-design-app-builder-october-release-with-assets-support) 
 - Asset support and storage
 - Upload Sketch file to Indigo Cloud from the Sketch plugin
