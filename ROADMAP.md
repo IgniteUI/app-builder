@@ -1,12 +1,10 @@
 # Roadmap - Indigo.Design App Builder
-## Current Iteration (Due by March, 2022)
-- On-Premise version of App Builder
-- OpenAPI (Swagger) Support
+## Current Iteration
+- Chart component in the Toolbox (category chart)
 
 ## Going down the road
 - Share and preview app from Indigo.Cloud
 - CSS grid layout support
-- Chart component in the Toolbox (financial/category)
 - Create sample apps with a Grid and Chart
 - TFS to Azure DevOps migration (indigodesigned codebase)
 - Data binding story
@@ -17,6 +15,14 @@
 - React and Web Components Code Generation
 
 ## Previous Iterations
+### Iteration 7
+- **Copy application** to a different workspace, and include all linked resources (theme, image assets and data)
+- Select new **app templates** when creating a new app
+- Select **preset layouts** when creating a new view in your app
+
+### Iteration 6 - [blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-swagger-support-and-more)
+- **OpenAPI (Swagger) Support** as part of our data-binding RestAPI story.
+- **On-Premise Version of App Builder** that you can install on your own server and behind your own server firewall. This instance is runnable on any infrastructure and accessible only by internal personnel
 
 ### Iteration 5
 - Sketch UI Kit Improved Theming Support - The light/dark mode toggle that changes the surface color now affects how gray colors are set up - as a derivative of black or white.
