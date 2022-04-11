@@ -1,3 +1,25 @@
+# April 2022 Release
+## Features
+- **Copy application** to a different workspace, and include all linked resources (theme, image assets and data)
+- Select new **app templates** when creating a new app
+- Select **preset layouts** when creating a new view in your app
+
+## Improvements
+- Related to Swagger UI and bug fixes
+
+## MAINTENANCE UPDATES & BUG FIXES
+**Including, but not limited to:**
+- Hide Swagger table context menu
+- Add progress indicator for done button when adding URL
+- Fix missing `requestInfo` on DS table
+- Hide dropdown when there isn't baseUrl to show
+- Add authorization methods required functionality
+- Swagger empty file proper handling
+- Prevent using empty json
+- Improve performance when too many endpoints
+- Select data dialog is listing the data sources instead of fields
+
+
 # March 2022 Release
 ## Features
 - **OpenAPI (Swagger) Support** as part of our data-binding RestAPI story.
