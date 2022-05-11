@@ -9,6 +9,13 @@ _**This repository is intended for issues and feature requests submission, as we
 
 ![0871 change-preview-code](https://user-images.githubusercontent.com/1472513/132676607-3851f308-416b-45d6-99bc-c34266b55c44.gif)
 
+### Feedback
+ - Ask a question by starting [a discussion](https://github.com/IgniteUI/app-builder/discussions) or submitting [an issue](https://github.com/IgniteUI/app-builder/issues/new)
+ - Request a [new feature](https://github.com/IgniteUI/app-builder/issues/new)
+ - Upvote [popular feature requests](https://github.com/IgniteUI/app-builder/labels/feature%20request)
+ - [File an issue](https://github.com/IgniteUI/app-builder/issues/new)
+ - Reach out to us [through Discord](https://discord.gg/5RMqfzUK)
+
 ## Tutorials
 
  * [Getting Started](https://www.youtube.com/watch?v=DK50La2GFJ0&list=PLZ4rRHIJepBt-ZdKw6cL6d6S6wYPplFAi)
