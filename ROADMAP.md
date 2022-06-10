@@ -1,12 +1,13 @@
 # Roadmap - Indigo.Design App Builder
 ## Current Iteration
-- Chart component in the Toolbox (category chart)
+- Chart component in the Toolbox (category and pie chart)
+- Github integration improvements
+- local network requests support
 
 ## Going down the road
 - Share and preview app from Indigo.Cloud
 - CSS grid layout support
 - Create sample apps with a Grid and Chart
-- TFS to Azure DevOps migration (indigodesigned codebase)
 - Data binding story
     - Northwind is flattened, make it relational (actual data that can be used in master detail context)
     - Forms builder
@@ -15,6 +16,26 @@
 - React and Web Components Code Generation
 
 ## Previous Iterations
+### Iteration 9
+- Added **Category Chart** to the component toolbox
+- Added **Pie Chart** to the component toolbox
+- **GitHub Integration**: Publish updates without rolling back user changes
+- Allow data requests from **local network sources**
+
+### Iteration 8
+- Create designs in Sketch with **four new UI kit(s)** matching Material, Fluent, Bootstrap and Indigo theme.
+- **Dark theme** support for **Blazor**
+- Generate code for **Blazor** apps:
+  - Added support for more components - **DropDown, Chip, Slider, Snackbar**
+  - Updated code generation for **Navigation drawer, Navigation bar, and Card**
+  - Generate **click interactions** that use open/close or show/hide actions
+  - Support for repeating components based on bound data (collection).
+- Improved parsing for colors when importing apps from Sketch
+- Improvement for both Angular and Blazor - Code output now contain **less properties with default values**
+- Updated "Task Management" **sample app** with new visual styles.
+- You can set appearance properties for **Navigation bar**
+- **Download App builder** desktop app from main App-Menu
+- 
 ### Iteration 7
 - **Copy application** to a different workspace, and include all linked resources (theme, image assets and data)
 - Select new **app templates** when creating a new app
