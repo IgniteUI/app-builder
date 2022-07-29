@@ -8,6 +8,7 @@
 
 ## Going down the road
 - **Tree Grid** component as part of the toolbox, as well as **Accordion**, **Stepper** and **Rating**.
+- **Blazor Server** project generation
 - **Master-detail**
 - **Dock Manager** as a layout setup - design surface
 - **Share and preview app** from Indigo.Cloud
