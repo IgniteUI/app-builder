@@ -1,21 +1,29 @@
 # Roadmap - Indigo.Design App Builder
 ## Current Iteration
-- Chart component in the Toolbox (category and pie chart)
-- Github integration improvements
-- local network requests support
+- **Figma** design tool support 
+- **Tree component** as part of the Toolbox
+- New Blazor components and improvements - **Tab, Expansion panel**
+- Support **gap, column-gap and row-gap property** for flex layouts
+- Filtering of endpoints for RestAPI data source
 
 ## Going down the road
-- Share and preview app from Indigo.Cloud
-- CSS grid layout support
-- Create sample apps with a Grid and Chart
-- Data binding story
-    - Northwind is flattened, make it relational (actual data that can be used in master detail context)
-    - Forms builder
-- Master-detail – Angular tour of heroes example
-- UI Parts (custom components)
-- React and Web Components Code Generation
+- **Tree Grid** component as part of the toolbox, as well as **Accordion**, **Stepper** and **Rating**.
+- **Master-detail**
+- **Dock Manager** as a layout setup - design surface
+- **Share and preview app** from Indigo.Cloud
+- **CSS grid** layout support
+- Create sample apps with a **Grid and Chart**
+- **Forms builder**
+- **UI Parts** (custom components)
+- **React** and **Web Components** Code Generation
+- App Builder **Placeholder** component
 
 ## Previous Iterations
+### Iteration 10
+- **Angular 14** upgrade
+- Exposing all available **google fonts** in the theme editor
+- Improvements in the Angular/Blazor **code generation**
+
 ### Iteration 9
 - Added **Category Chart** to the component toolbox
 - Added **Pie Chart** to the component toolbox
