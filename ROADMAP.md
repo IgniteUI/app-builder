@@ -2,8 +2,9 @@
 ## Current Iteration
 - **Figma** design tool support 
 - **Tree component** as part of the Toolbox
-- New Blazor components and improvements - **Accordion, Tab, Expansion panel, Dialog, Select**
+- New Blazor components and improvements - **Tab, Expansion panel**
 - Support **gap, column-gap and row-gap property** for flex layouts
+- Filtering of endpoints for RestAPI data source
 
 ## Going down the road
 - **Tree Grid** component as part of the toolbox
