@@ -1,6 +1,7 @@
 # August 2022 Release
 ## Features
 - Added **Tree component** to the component toolbox, for Blazor and Angular.
+- Generate your app for both **Blazor WebAssembly and Server**
 
 ## Improvements
 - Added support for `grid-gap` in **row and column layout (Flexbox)**
