@@ -6,6 +6,8 @@
   - Accordion
   - Tab Container 
 - **Grid** v2 features
+- Create sample apps with a **Grid, Charts and Navigation Drawer**
+- Grid CRUD
 
 ## Going down the road
 - **Tree Grid** component as part of the toolbox, as well as **Accordion**, **Stepper** and **Rating**.
@@ -13,7 +15,6 @@
 - **Dock Manager** as a layout setup - design surface
 - **Share and preview app** from Indigo.Cloud
 - **CSS grid** layout support
-- Create sample apps with a **Grid and Chart**
 - **Forms builder**
 - **UI Parts** (custom components)
 - **React** and **Web Components** Code Generation
