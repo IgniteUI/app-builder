@@ -1,14 +1,14 @@
 # Roadmap - Indigo.Design App Builder
 ## Current Iteration
 - **Figma** design tool support 
-- **Tree component** as part of the Toolbox
-- New Blazor components and improvements - **Tab, Expansion panel**
-- Support **gap, column-gap and row-gap property** for flex layouts
-- Filtering of endpoints for RestAPI data source
+- New components as part of the Toolbox
+  - TreeGrid 
+  - Accordion
+  - Tab Container 
+- **Grid** v2 features
 
 ## Going down the road
 - **Tree Grid** component as part of the toolbox, as well as **Accordion**, **Stepper** and **Rating**.
-- **Blazor Server** project generation
 - **Master-detail**
 - **Dock Manager** as a layout setup - design surface
 - **Share and preview app** from Indigo.Cloud
@@ -20,6 +20,17 @@
 - App Builder **Placeholder** component
 
 ## Previous Iterations
+
+### Iteration 11
+- Added **Tree component** to the component toolbox, for Blazor and Angular.
+- Generate your app for both **Blazor WebAssembly and Server**
+- Added support for `grid-gap` in **row and column layout (Flexbox)**
+- Added **filtering for endpoints** when configuring OpenAPI datasource
+- Generate **Expansion panel** as a Blazor component.
+- **UI Kits** support dedicated content area inside **Tab Layout**
+- Repositioned zoom settings for design surface to app toolbar
+- Navigation Drawer now has a droppable area and you can add components like the Tree
+
 ### Iteration 10
 - **Angular 14** upgrade
 - Exposing all available **google fonts** in the theme editor
