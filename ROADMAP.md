@@ -1,16 +1,18 @@
 # Roadmap - Indigo.Design App Builder
 ## Current Iteration
+- Grid **CRUD**
+- **WebComponents** code generation
 - **Figma** design tool support 
-- New components as part of the Toolbox
-  - TreeGrid 
+- **New components** as part of the Toolbox
+  - Tree Grid 
   - Accordion
   - Tab Container 
-- **Grid** v2 features
+  - Accordion
+- **Grid** column based features and configurations
 - Create sample apps with a **Grid, Charts and Navigation Drawer**
-- Grid CRUD
+
 
 ## Going down the road
-- **Tree Grid** component as part of the toolbox, as well as **Accordion**, **Stepper** and **Rating**.
 - **Master-detail**
 - **Dock Manager** as a layout setup - design surface
 - **Share and preview app** from Indigo.Cloud
