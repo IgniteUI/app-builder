@@ -24,7 +24,7 @@
 
 ## Previous Iterations
 
-### Iteration 11
+### Iteration 11 (Released August, 2022)
 - Added **Tree component** to the component toolbox, for Blazor and Angular.
 - Generate your app for both **Blazor WebAssembly and Server**
 - Added support for `grid-gap` in **row and column layout (Flexbox)**
@@ -34,18 +34,18 @@
 - Repositioned zoom settings for design surface to app toolbar
 - Navigation Drawer now has a droppable area and you can add components like the Tree
 
-### Iteration 10
+### Iteration 10 (Released July, 2022)
 - **Angular 14** upgrade
 - Exposing all available **google fonts** in the theme editor
 - Improvements in the Angular/Blazor **code generation**
 
-### Iteration 9
+### Iteration 9 (Released June, 2022)
 - Added **Category Chart** to the component toolbox
 - Added **Pie Chart** to the component toolbox
 - **GitHub Integration**: Publish updates without rolling back user changes
 - Allow data requests from **local network sources**
 
-### Iteration 8
+### Iteration 8 (Released May, 2022)
 - Create designs in Sketch with **four new UI kit(s)** matching Material, Fluent, Bootstrap and Indigo theme.
 - **Dark theme** support for **Blazor**
 - Generate code for **Blazor** apps:
@@ -59,16 +59,16 @@
 - You can set appearance properties for **Navigation bar**
 - **Download App builder** desktop app from main App-Menu
 - 
-### Iteration 7
+### Iteration 7 (Released April, 2022)
 - **Copy application** to a different workspace, and include all linked resources (theme, image assets and data)
 - Select new **app templates** when creating a new app
 - Select **preset layouts** when creating a new view in your app
 
-### Iteration 6 - [blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-swagger-support-and-more)
+### Iteration 6 - [blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-swagger-support-and-more)   (Released March, 2022)
 - **OpenAPI (Swagger) Support** as part of our data-binding RestAPI story.
 - **On-Premise Version of App Builder** that you can install on your own server and behind your own server firewall. This instance is runnable on any infrastructure and accessible only by internal personnel
 
-### Iteration 5
+### Iteration 5  (Released January, 2022)
 - Sketch UI Kit Improved Theming Support - The light/dark mode toggle that changes the surface color now affects how gray colors are set up - as a derivative of black or white.
 - UI Kits Version Check updates - Now matching `<major>.<minor>` for consistency between parser dll and symbol. `<patch>` will be ignored and wont throw an error if the symbol version is higher than the parser version (#13942)
 - Maintenance updates and bug fixes
