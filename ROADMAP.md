@@ -19,7 +19,7 @@
 
 ## Previous Iterations
 
-### Iteration 12 (Released October, 2022)
+### Iteration 12 (Released October, 2022) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-web-components-code-generation-tree-grid-and-more)
 - Added **Tree-Grid** and **Accordion** to the component toolbox
 - Define columns collection for **Grid** component, and re-arrange columns
 - Added new **sample app** - HR Dashboard
@@ -29,7 +29,7 @@
 - Angular apps are generated using **Ignite UI for Angular `~14.1.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/blob/master/CHANGELOG.md#1410))
 - Bug fixes
 
-### Iteration 11 (Released August, 2022)
+### Iteration 11 (Released August, 2022) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-blazor-server)
 - Added **Tree component** to the component toolbox, for Blazor and Angular.
 - Generate your app for both **Blazor WebAssembly and Server**
 - Added support for `grid-gap` in **row and column layout (Flexbox)**
@@ -44,7 +44,7 @@
 - Exposing all available **google fonts** in the theme editor
 - Improvements in the Angular/Blazor **code generation**
 
-### Iteration 9 (Released June, 2022)
+### Iteration 9 (Released June, 2022) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-charts-support)
 - Added **Category Chart** to the component toolbox
 - Added **Pie Chart** to the component toolbox
 - **GitHub Integration**: Publish updates without rolling back user changes
@@ -64,7 +64,7 @@
 - You can set appearance properties for **Navigation bar**
 - **Download App builder** desktop app from main App-Menu
 - 
-### Iteration 7 (Released April, 2022)
+### Iteration 7 (Released April, 2022) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-copy-application-new-app-layouts-and-presets)
 - **Copy application** to a different workspace, and include all linked resources (theme, image assets and data)
 - Select new **app templates** when creating a new app
 - Select **preset layouts** when creating a new view in your app
