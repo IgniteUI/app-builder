@@ -1,21 +1,16 @@
-# Roadmap - Indigo.Design App Builder
+# Roadmap - Ignite UI App Builder
 ## Current Iteration
+- **Share and preview app** from App Builder
 - Grid **CRUD**
 - **WebComponents** code generation
 - **Figma** design tool support 
 - **New components** as part of the Toolbox
-  - Tree Grid 
-  - Accordion
   - Tab Container 
-  - Accordion
-- **Grid** column based features and configurations
-- Create sample apps with a **Grid, Charts and Navigation Drawer**
-
+  - Rating
 
 ## Going down the road
 - **Master-detail**
 - **Dock Manager** as a layout setup - design surface
-- **Share and preview app** from Indigo.Cloud
 - **CSS grid** layout support
 - **Forms builder**
 - **UI Parts** (custom components)
@@ -23,6 +18,16 @@
 - App Builder **Placeholder** component
 
 ## Previous Iterations
+
+### Iteration 12 (Released October, 2022)
+- Added **Tree-Grid** and **Accordion** to the component toolbox
+- Define columns collection for **Grid** component, and re-arrange columns
+- Added new **sample app** - HR Dashboard
+- Added support for reference objects when using **OpenAPI** definition
+- Added support for **Safari browser**
+- **Generate app** with licensed packages if you own a subscription
+- Angular apps are generated using **Ignite UI for Angular `~14.1.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/blob/master/CHANGELOG.md#1410))
+- Bug fixes
 
 ### Iteration 11 (Released August, 2022)
 - Added **Tree component** to the component toolbox, for Blazor and Angular.
