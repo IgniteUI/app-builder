@@ -3,10 +3,10 @@
 - **Share and preview app** from App Builder
 - Grid **CRUD**
 - **WebComponents** code generation
-- **Figma** design tool support 
 - **New components** as part of the Toolbox
   - Tab Container 
   - Rating
+- **Figma** design tool support 
 
 ## Going down the road
 - **Master-detail**
