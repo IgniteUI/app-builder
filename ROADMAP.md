@@ -10,12 +10,14 @@
 
 ## Going down the road
 - **Master-detail**
+- Hierarchical Grid as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
 - **CSS grid** layout support
 - **Forms builder**
 - **UI Parts** (custom components)
-- **React** and **Web Components** Code Generation
+- **React** Code Generation
 - App Builder **Placeholder** component
+- New data connectors
 
 ## Previous Iterations
 
