@@ -1,5 +1,5 @@
 # Ignite UI App Builder
-[![Discord](https://img.shields.io/discord/836634487483269200?logo=discord&logoColor=ffffff)](https://discord.gg/39MjrTRqds)
+[Discord](https://discord.gg/39MjrTRqds)
 
 [Ignite UI App Builder](https://www.infragistics.com/products/appbuilder) is a cloud-based WYSIWYG drag & drop tool that streamlines everything in software development from design to code, allowing you to build business apps faster than ever before. With features that both designers and developers love, the low-code platform brings a toolbox of 60+ reusable UI controls and integrates a complete design system - Indigo.Design. 
 
