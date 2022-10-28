@@ -1,3 +1,19 @@
+# October 2022 Release
+## Features
+- **Share and preview app** from App Builder
+- Added **Tree-Grid** and **Accordion** to the component toolbox
+- Define columns collection for **Grid** component, and re-arrange columns
+- Added new **sample app** - HR Dashboard
+
+## Improvements
+- Added support for reference objects when using **OpenAPI** definition
+- Added support for **Safari browser**
+- **Generate app** with licensed packages if you own a subscription ([more](https://www.infragistics.com/products/appbuilder/help/generate-app/generate-app-overview#licensed-code-export))
+- Angular apps are generated using **Ignite UI for Angular `~14.1.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/blob/master/CHANGELOG.md#1410))
+
+[LEARN MORE](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-web-components-code-generation-tree-grid-and-more)
+
+
 # August 2022 Release
 ## Features
 - Added **Tree component** to the component toolbox, for Blazor and Angular.
@@ -15,8 +31,6 @@
 - Angular apps are generated using **Ignite UI for Angular `~14.0.0`**
 - Added support for selecting any **Google font** when defining app theme
 - General improvements to **Angular and Blazor code generation**
-
-
 
 # June 2022 Release
 ## Features
