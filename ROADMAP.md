@@ -1,6 +1,5 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- **Share and preview app** from App Builder
 - Grid **CRUD**
 - **WebComponents** code generation
 - **New components** as part of the Toolbox
@@ -22,6 +21,7 @@
 ## Previous Iterations
 
 ### Iteration 12 (Released October, 2022) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-web-components-code-generation-tree-grid-and-more)
+- **Share and preview app** from App Builder
 - Added **Tree-Grid** and **Accordion** to the component toolbox
 - Define columns collection for **Grid** component, and re-arrange columns
 - Added new **sample app** - HR Dashboard
