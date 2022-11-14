@@ -1,15 +1,13 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
+- Grid **column/header template**
+- Hierarchical Data Support
+- Category Chart Aggregations
 - Grid **CRUD**
-- **WebComponents** code generation
-- **New components** as part of the Toolbox
-  - Tab Container 
-  - Rating
-- **Figma** design tool support 
+- **Pivot** and **Hierarchical Grid** as part of the toolbox
 
 ## Going down the road
 - **Master-detail**
-- Hierarchical Grid as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
 - **CSS grid** layout support
 - **Forms builder**
@@ -19,6 +17,13 @@
 - New data connectors
 
 ## Previous Iterations
+
+## Iteration 13 (Released November, 2022)
+- **WebComponents** code generation
+- **Figma** design tool support 
+- **New components** as part of the Toolbox
+  - Tab Container 
+  - Rating
 
 ### Iteration 12 (Released October, 2022) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-web-components-code-generation-tree-grid-and-more)
 - **Share and preview app** from App Builder
