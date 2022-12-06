@@ -1,3 +1,28 @@
+# December 2022 Release
+## Features
+- Added **Pivot Grid component** to the component toolbox for Angular.
+- Added Hierarchical data support for **Tree Grid** component.
+- Released [**Indigo.Design UI kit** for Figma](https://www.figma.com/@infragistics).
+- Released [Figma plugin](https://www.figma.com/community/plugin/1170035114372031474) to create an app from designs.
+- Added new **sample app** - Movie Premieres.
+
+## Improvements
+- Added an option to **Remember authorization details** when connecting to REST API endpoints.
+- Bug fixes and performance improvements.
+
+# November 2022 Release
+
+## Features
+- **Generate app** and components as a **Web Components** project
+- **Share** a public link to preview your app
+- Added **Rating** to the component toolbox (Angular and Web Components)
+
+## Improvements
+- Added new features for **Grid** component (Blazor)
+- Added TreeGrid component for **Blazor** and **Web Components** code generation
+- Angular apps are generated using **Ignite UI for Angular `~14.1.1`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/14.1.1))
+- Bug fixes
+
 # October 2022 Release
 ## Features
 - **Share and preview app** from App Builder
