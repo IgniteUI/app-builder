@@ -1,12 +1,11 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
 - Grid **column/header template**
-- Hierarchical Data Support
-- Category Chart Aggregations
 - Grid **CRUD**
-- **Pivot** and **Hierarchical Grid** as part of the toolbox
+- Category Chart Aggregations
 
 ## Going down the road
+- **Hierarchical Grid** as part of the toolbox
 - **Master-detail**
 - **Dock Manager** as a layout setup - design surface
 - **CSS grid** layout support
@@ -18,6 +17,14 @@
 
 ## Previous Iterations
 
+## Iteration 14 (Released December, 2022)
+- Added **Pivot Grid component** to the component toolbox for Angular.
+- Added Hierarchical data support for **Tree Grid** component.
+- Released [**Indigo.Design UI kit** for Figma](https://www.figma.com/@infragistics).
+- Released [Figma plugin](https://www.figma.com/community/plugin/1170035114372031474) to create an app from designs.
+- Added new **sample app** - Movie Premieres.
+- Added an option to **Remember authorization details** when connecting to REST API endpoints.
+- 
 ## Iteration 13 (Released November, 2022)
 - **WebComponents** code generation
 - **Figma** design tool support 
