@@ -1,10 +1,11 @@
 # December 2022 Release
 ## Features
-- Added **Pivot Grid component** to the component toolbox for Angular.
+- Added **Pivot Grid component** to the component toolbox.
 - Added Hierarchical data support for **Tree Grid** component.
 - Released [**Indigo.Design UI kit** for Figma](https://www.figma.com/@infragistics).
 - Released [Figma plugin](https://www.figma.com/community/plugin/1170035114372031474) to create an app from designs.
 - Added new **sample app** - Movie Premieres.
+- Combo component code generation for WC and Blazor 
 
 ## Improvements
 - Added an option to **Remember authorization details** when connecting to REST API endpoints.
