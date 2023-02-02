@@ -1,3 +1,93 @@
+# December 2022 Release
+## Features
+- Added **Pivot Grid component** to the component toolbox.
+- Added Hierarchical data support for **Tree Grid** component.
+- Released [**Indigo.Design UI kit** for Figma](https://www.figma.com/@infragistics).
+- Released [Figma plugin](https://www.figma.com/community/plugin/1170035114372031474) to create an app from designs.
+- Added new **sample app** - Movie Premieres.
+- Combo component code generation for WC and Blazor 
+
+## Improvements
+- Added an option to **Remember authorization details** when connecting to REST API endpoints.
+- Bug fixes and performance improvements.
+
+# November 2022 Release
+
+## Features
+- **Generate app** and components as a **Web Components** project
+- **Share** a public link to preview your app
+- Added **Rating** to the component toolbox (Angular and Web Components)
+
+## Improvements
+- Added new features for **Grid** component (Blazor)
+- Added TreeGrid component for **Blazor** and **Web Components** code generation
+- Angular apps are generated using **Ignite UI for Angular `~14.1.1`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/14.1.1))
+- Bug fixes
+
+# October 2022 Release
+## Features
+- **Share and preview app** from App Builder
+- Added **Tree-Grid** and **Accordion** to the component toolbox
+- Define columns collection for **Grid** component, and re-arrange columns
+- Added new **sample app** - HR Dashboard
+
+## Improvements
+- Added support for reference objects when using **OpenAPI** definition
+- Added support for **Safari browser**
+- **Generate app** with licensed packages if you own a subscription ([more](https://www.infragistics.com/products/appbuilder/help/generate-app/generate-app-overview#licensed-code-export))
+- Angular apps are generated using **Ignite UI for Angular `~14.1.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/blob/master/CHANGELOG.md#1410))
+
+[LEARN MORE](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-web-components-code-generation-tree-grid-and-more)
+
+
+# August 2022 Release
+## Features
+- Added **Tree component** to the component toolbox, for Blazor and Angular.
+- Generate your app for both **Blazor WebAssembly and Server**
+
+## Improvements
+- Added support for `grid-gap` in **row and column layout (Flexbox)**
+- Added **filtering for endpoints** when configuring OpenAPI datasource
+- Generate **Expansion panel** as a Blazor component.
+- **UI Kits** support dedicated content area inside **Tab Layout**
+- Bug fixes and performance improvements
+
+# July 2022 Release
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `~14.0.0`**
+- Added support for selecting any **Google font** when defining app theme
+- General improvements to **Angular and Blazor code generation**
+
+# June 2022 Release
+## Features
+ - Added **Category Chart** to the component toolbox
+ - Added **Pie Chart** to the component toolbox
+ - **GitHub Integration**: Publish updates without rolling back user changes
+ - Allow data requests from **local network sources**
+
+[LEARN MORE](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-charts-support-and-more)
+
+# May 2022 Release
+## Features
+- Create designs in Sketch with **four new UI kit(s)** matching Material, Fluent, Bootstrap and Indigo theme.
+- **Dark theme** support for **Blazor**
+
+## Improvements
+- Generate code for **Blazor** apps:
+  - Added support for more components - **DropDown, Chip, Slider, Snackbar**
+  - Updated code generation for **Navigation drawer, Navigation bar, and Card**
+  - Generate **click interactions** that use open/close or show/hide actions
+  - Support for repeating components based on bound data (collection).
+- Improved parsing for colors when importing apps from Sketch
+- Improvement for both Angular and Blazor - Code output now contain **less properties with default values**
+- Updated "Task Management" **sample app** with new visual styles.
+- You can set appearance properties for **Navigation bar**
+- **Download App builder** desktop app from main App-Menu
+
+## MAINTENANCE UPDATES & BUG FIXES
+- Renamed Indigo.Design UI kit
+- Auto-fill baseUrl when configuring endpoints (OpenAPI)
+
 # April 2022 Release
 ## Features
 - **Copy application** to a different workspace, and include all linked resources (theme, image assets and data)
