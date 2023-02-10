@@ -1,3 +1,22 @@
+# February 2023 Release
+## Features
+
+- Configure REST API methods **POST/PUT/DELETE** when creating a datasource based on **OpenAPI** definition.
+- New **Data-action** for creating, updating, and deleting records in **Grid** and **Tree-Grid** component.
+- Use Hierarchical type data in **Tree-Grid** and **Tree** component.
+- Added support for **nested data-binding** when repeating components based on hierarchical data.
+- Group and aggregate data in **Category chart** when repeated labels are present.
+- Added two new **sample apps** - Learning portal and Inventory management.
+
+## Improvements
+
+- Added `align-self` property to override V.align and H.align defined on parent layout (CSS Flex-box).
+- Added `border-radius` property to set Rounding for Row/Column/Absolute **layout** components
+- Show App name as page title in the browser
+- Select all data-fields when adding a new data collection
+- Added option to maximize the Create new application dialog
+- Bug fixes and general improvements
+
 # December 2022 Release
 ## Features
 - Added **Pivot Grid component** to the component toolbox.

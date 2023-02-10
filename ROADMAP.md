@@ -1,22 +1,32 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Grid **column/header template**
-- Grid **CRUD**
-- Category Chart Aggregations
+- Grid **cell/header template**
+- App Builder **Placeholder** component
+- **Forms builder**
+- Stepper component
 
 ## Going down the road
 - **Hierarchical Grid** as part of the toolbox
 - **Master-detail**
 - **Dock Manager** as a layout setup - design surface
 - **CSS grid** layout support
-- **Forms builder**
 - **UI Parts** (custom components)
 - **React** Code Generation
-- App Builder **Placeholder** component
 - New data connectors
 
 ## Previous Iterations
-
+## Iteration 15 (Released February, 2023)
+- Configure REST API methods **POST/PUT/DELETE** when creating a datasource based on **OpenAPI** definition.
+- New **Data-action** for creating, updating, and deleting records in **Grid** and **Tree-Grid** component.
+- Use Hierarchical type data in **Tree-Grid** and **Tree** component.
+- Added support for **nested data-binding** when repeating components based on hierarchical data.
+- Group and aggregate data in **Category chart** when repeated labels are present.
+- Added two new **sample apps** - Learning portal and Inventory management.
+- Added `align-self` property to override V.align and H.align defined on parent layout (CSS Flex-box).
+- Added `border-radius` property to set Rounding for Row/Column/Absolute **layout** components
+- Show App name as page title in the browser
+- Select all data-fields when adding a new data collection
+- Added option to maximize the Create new application dialog
 ## Iteration 14 (Released December, 2022)
 - Added **Pivot Grid component** to the component toolbox.
 - Added Hierarchical data support for **Tree Grid** component.
