@@ -1,7 +1,7 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
 - Grid **cell/header template**
-- App Builder **Placeholder** component
+- App Builder **Embedded content** component
 - **Forms builder**
 - Stepper component
 
