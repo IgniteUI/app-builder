@@ -1,13 +1,13 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Grid **cell/header template**
-- App Builder **Placeholder** component
-- **Forms builder**
+- App Builder **Reveal** component
 - Stepper component
+- Grid **cell/header template**
 
 ## Going down the road
-- **Hierarchical Grid** as part of the toolbox
 - **Master-detail**
+- **Forms builder**
+- **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
 - **CSS grid** layout support
 - **UI Parts** (custom components)
@@ -15,6 +15,21 @@
 - New data connectors
 
 ## Previous Iterations
+## Iteration 17 (Released April, 2023)
+- New code generation for Combo, Select and Dialog components (Blazor)
+- New toggle for unlicensed code export
+- Sample application updates - Team Collaboration, Ecommerce Auto Shop
+- Focus on bug fixing and general improvements
+- Design System Model upgrade to 4.7.4
+
+## Iteration 16 (Released March, 2023)
+- New sample application - Health Vault
+- Figma import story enhancements
+- Released new version of [**Indigo.Design UI kit** for Figma](https://www.figma.com/@infragistics).
+- Released new version of [Figma plugin](https://www.figma.com/community/plugin/1170035114372031474).
+- Focus on bug fixing and general improvements
+- Design System Model upgrade to 4.7.3
+
 ## Iteration 15 (Released February, 2023)
 - Configure REST API methods **POST/PUT/DELETE** when creating a datasource based on **OpenAPI** definition.
 - New **Data-action** for creating, updating, and deleting records in **Grid** component.
