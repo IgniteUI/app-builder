@@ -1,11 +1,10 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- App Builder **Reveal** component
-- Stepper component
 - Grid **cell/header template**
+- **Master-detail**
 
 ## Going down the road
-- **Master-detail**
+
 - **Forms builder**
 - **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
@@ -15,8 +14,19 @@
 - New data connectors
 
 ## Previous Iterations
+## Iteration 18 (Released May, 2023)
+- Added **Stepper** and **Reveal Dashboard** to the component toolbox.
+- Added new **sample app** - Health Vault.
+- Switch between **licensed vs. unlicensed packages** when generating apps.
+- Improved layout heuristics to create **CSS Flexbox layouts from Figma designs** that use Auto-layout.
+- Updated **Figma Material UI Kit** to **v1.3**.
+- Updated **Figma plugin** to create apps using theme palette and **Dark theme**.
+- Automatically extract SVG and PNG as image assets when creating apps from Figma design files.
+- Unified dropdown in App menu to download design system resources and to join our Discord channel.
+- Updated **sample apps** - Travel app, Team Collaboration, Ecommerce Auto Shop and HR Portal.
+
 ## Iteration 17 (Released April, 2023)
-- New code generation for Combo, Select and Dialog components (Blazor)
+- Blazor code generation for **Combo**, **Select** and **Dialog** components.
 - New toggle for unlicensed code export
 - Sample application updates - Team Collaboration, Ecommerce Auto Shop
 - Focus on bug fixing and general improvements
