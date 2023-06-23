@@ -5,7 +5,6 @@
 
 ## Improvements
 - Improved layout heuristics to create **CSS Flexbox layouts from Figma designs** that use Auto-layout.
-- Updated **Figma Material UI Kit** to **v1.3**.
 - Updated **Figma plugin** to create apps using theme palette and **Dark theme**.
 - Automatically extract SVG and PNG as image assets when creating apps from Figma design files.
 - Unified dropdown in App menu to download design system resources and to join our Discord channel.
