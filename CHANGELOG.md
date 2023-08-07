@@ -3,6 +3,8 @@
 - Added Combo **Single Selection** feature.
 - Added support for **Material Extended Icons**.
 - New Stepper **navigation actions**.
+- New Indigo.Design UI Kit for **Fluent 1.3**.
+- NewIndigo.Design UI Kit for **Material 1.3**.
 ## Improvements
 - Angular apps are generated using **Ignite UI for Angular `16.0.15`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.15)).
 - Bug fixes and general improvements.
