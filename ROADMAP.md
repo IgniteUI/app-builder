@@ -1,10 +1,8 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Grid **cell/header template**
-- **Master-detail**
+- **Master-detail** - State and context binding
 
 ## Going down the road
-
 - **Forms builder**
 - **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
@@ -14,6 +12,23 @@
 - New data connectors
 
 ## Previous Iterations
+# Iteration 20 (Released June, 2023)
+- Added Combo **Single Selection** feature.
+- Added support for **Material Extended Icons**.
+- New Stepper **navigation actions**.
+- New Indigo.Design UI Kit for **Fluent 1.3**.
+- NewIndigo.Design UI Kit for **Material 1.3**.
+- Angular apps are generated using **Ignite UI for Angular `16.0.15`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.15)).
+- Bug fixes and general improvements.
+
+# Iteration 19 (Released June, 2023)
+- Added **Grid Column Templating** - Header, Cell display and Cell editing
+- UI for browsing and navigation through schema entities in OpenAPI definition
+- Toolbox components linked to relevant help documentation
+- Angular apps are generated using **Ignite UI for Angular `16.0.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.0))
+- Travel App: improvements for the background positioning of images
+- Bug fixes and general improvements.
+
 ## Iteration 18 (Released May, 2023)
 - Added **Stepper** and **Reveal Dashboard** to the component toolbox.
 - Added new **sample app** - Health Vault.
