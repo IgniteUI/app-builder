@@ -1,3 +1,22 @@
+# August 2023 Release
+## Features
+- Added Combo **Single Selection** feature.
+- Added support for **Material Extended Icons**.
+- New Stepper **navigation actions**.
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `16.0.15`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.15)).
+- Bug fixes and general improvements.
+
+# June 2023 Release
+## Features
+- Added **Grid Column Templating** - Header, Cell display and Cell editing
+- UI for browsing and navigation through schema entities in OpenAPI definition
+- Toolbox components linked to relevant help documentation
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `16.0.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.0))
+- Travel App: improvements for the background positioning of images
+- Bug fixes and general improvements.
+
 # May 2023 Release
 ## Features
 - Added **Stepper** and **Reveal Dashboard** to the component toolbox.
