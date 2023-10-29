@@ -1,6 +1,6 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- **Master-detail** - State and context binding
+- To be updated
 
 ## Going down the road
 - **Forms builder**
@@ -12,7 +12,16 @@
 - New data connectors
 
 ## Previous Iterations
-# Iteration 20 (Released June, 2023)
+# Iteration 21 (Released October, 2023)
+- **Create and edit variables** to pass data between components (local vars) or views (global vars).
+- **Initialize value of array/object** variable from an API request.
+- Update target variable's value using **"Set Variable"** action, when defining a user interaction (event).
+- Use **"Selection changed"** or **"on Click"** events to update variables.
+- **Bind component properties** to variable's value or nested data-fields for object type variables.
+- **Bind component data** to API endpoints with URL params (path and query params).
+- Bug fixes and general improvements.
+
+# Iteration 20 (Released August, 2023)
 - Added Combo **Single Selection** feature.
 - Added support for **Material Extended Icons**.
 - New Stepper **navigation actions**.
