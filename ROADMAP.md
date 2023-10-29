@@ -12,7 +12,7 @@
 - New data connectors
 
 ## Previous Iterations
-# Iteration 21 (Released October, 2023)
+# Iteration 21 (Will be Released on October, 2023)
 - **Create and edit variables** to pass data between components (local vars) or views (global vars).
 - **Initialize value of array/object** variable from an API request.
 - Update target variable's value using **"Set Variable"** action, when defining a user interaction (event).
