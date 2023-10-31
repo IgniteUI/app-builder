@@ -12,7 +12,7 @@
 - New data connectors
 
 ## Previous Iterations
-# Iteration 21 (Released on October, 2023)
+# Iteration 21 (Released on October, 2023) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/master-detail-style-apps)
 - **Create and edit variables** to pass data between components (local vars) or views (global vars).
 - **Initialize value of array/object** variable from an API request.
 - Update target variable's value using **"Set Variable"** action, when defining a user interaction (event).
@@ -21,7 +21,7 @@
 - **Bind component data** to API endpoints with URL params (path and query params).
 - Bug fixes and general improvements.
 
-# Iteration 20 (Released August, 2023)
+# Iteration 20 (Released August, 2023) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-grid-column-templates)
 - Added Combo **Single Selection** feature.
 - Added support for **Material Extended Icons**.
 - New Stepper **navigation actions**.
@@ -64,7 +64,7 @@
 - Focus on bug fixing and general improvements
 - Design System Model upgrade to 4.7.3
 
-## Iteration 15 (Released February, 2023)
+## Iteration 15 (Released February, 2023) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-grid-crud-operations-nested-iterators-and-more)
 - Configure REST API methods **POST/PUT/DELETE** when creating a datasource based on **OpenAPI** definition.
 - New **Data-action** for creating, updating, and deleting records in **Grid** component.
 - Use Hierarchical type data in **Tree-Grid** and **Tree** component.
