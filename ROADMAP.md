@@ -1,6 +1,7 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- To be updated
+- Pass data when using Navigation routes
+- Dependent variables support
 
 ## Going down the road
 - **Forms builder**
@@ -9,6 +10,7 @@
 - **CSS grid** layout support
 - **UI Parts** (custom components)
 - **React** Code Generation
+- Pivot configurator
 - New data connectors
 
 ## Previous Iterations
