@@ -14,7 +14,7 @@ Try the [web app now](https://appbuilder.indigo.design/), [download](https://www
 
 _**This repository is intended for issues and feature requests submission, as well as for general product discussions and questions.**_
 
-![0871 change-preview-code](https://user-images.githubusercontent.com/1472513/132676607-3851f308-416b-45d6-99bc-c34266b55c44.gif)
+![Health Vault AB Angular Create](https://github.com/IgniteUI/igniteui-angular/assets/52001020/8f40a0a6-44f8-43fa-8407-c8800a7eae89)
 
 ### Feedback
  - Ask a question by starting [a discussion](https://github.com/IgniteUI/app-builder/discussions)
