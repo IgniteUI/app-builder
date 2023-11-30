@@ -1,7 +1,9 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
+- Financial Chart as part of the Toolbox
 - Pass data when using Navigation routes
 - Dependent variables support
+- React code generation
 
 ## Going down the road
 - **Forms builder**
