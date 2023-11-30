@@ -11,7 +11,6 @@
 - **Dock Manager** as a layout setup - design surface
 - **CSS grid** layout support
 - **UI Parts** (custom components)
-- **React** Code Generation
 - Pivot configurator
 - New data connectors
 
