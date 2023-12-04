@@ -4,6 +4,7 @@
 - Pass data when using Navigation routes
 - Dependent variables support
 - React code generation
+- New Variables Management UI
 
 ## Going down the road
 - **Forms builder**
