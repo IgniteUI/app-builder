@@ -6,6 +6,7 @@
 - React code generation
 
 ## Going down the road
+- **Query Builder Component**
 - **Forms builder**
 - **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
