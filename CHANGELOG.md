@@ -1,3 +1,14 @@
+# December 2023 Release
+## Features
+- **Manage all variables** defined in your app from a single location. 
+- Added **Financial Chart** to the component toolbox.
+- Added **Value Change** interaction event for **Date Picker** component.
+ 
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `16.1.11`**.
+- Added an option to **select all** endpoints when configuring an OpenAPI-based datasource. 
+- Bug fixes
+
 # October 2023 Release
 ## Features
 - **Create and edit variables** to pass data between components (local vars) or views (global vars).
