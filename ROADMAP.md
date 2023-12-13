@@ -17,6 +17,14 @@
 - New data connectors
 
 ## Previous Iterations
+# Iteration 22 (Released on December, 2023)
+- **Manage all variables** defined in your app from a single location. 
+- Added **Financial Chart** to the component toolbox.
+- Added **Value Change** interaction event for **Date Picker** component.
+- Angular apps are generated using **Ignite UI for Angular `16.1.11`**.
+- Added an option to **select all** endpoints when configuring an OpenAPI-based datasource.
+- Bug fixes and general improvements.
+
 # Iteration 21 (Released on October, 2023) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/master-detail-style-apps)
 - **Create and edit variables** to pass data between components (local vars) or views (global vars).
 - **Initialize value of array/object** variable from an API request.
