@@ -5,6 +5,8 @@
 - React code generation
 
 ## Going down the road
+- **App Builder SDK**
+- **Embedded integration**
 - **Query Builder Component**
 - **Forms builder**
 - **Hierarchical Grid** as part of the toolbox
