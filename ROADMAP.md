@@ -1,8 +1,7 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Pass data when using Navigation routes
-- Dependent variables support
 - React code generation
+- Expose a package to distribute AppBuilder.Backend.Sdk
 
 ## Going down the road
 - **App Builder SDK**
@@ -11,12 +10,18 @@
 - **Forms builder**
 - **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
-- **CSS grid** layout support
 - **UI Parts** (custom components)
 - Pivot configurator
 - New data connectors
 
 ## Previous Iterations
+# Iteration 23 (Released on February, 2023)
+- Pass data when using Navigation routes
+- Dependent variables support
+- Static value input capabilities for "set variable" value
+- Set Initial Variable values through editors (based on variable type)
+- OpenAPI Summary field usage instead of endpoint path
+
 # Iteration 22 (Released on December, 2023)
 - **Manage all variables** defined in your app from a single location. 
 - Added **Financial Chart** to the component toolbox.
