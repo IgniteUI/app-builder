@@ -19,8 +19,7 @@
 - Pass data when using Navigation routes
 - Dependent variables support
 - Static value input capabilities for "set variable" value
-- Initial Variable Values through editors
-- Set Variable Values through editors (based on variable type)
+- Set Initial Variable values through editors (based on variable type)
 - OpenAPI Summary field usage instead of endpoint path
 
 # Iteration 22 (Released on December, 2023)
