@@ -16,11 +16,9 @@
 
 ## Previous Iterations
 # Iteration 23 (Released on February, 2023)
-- Pass data when using Navigation routes
+- App Navigation with Route Parameters
 - Dependent variables support
-- Static value input capabilities for "set variable" value
-- Set Initial Variable values through editors (based on variable type)
-- OpenAPI Summary field usage instead of endpoint path
+- Static value input capabilities for "set variable" action through editors (based on variable type)
 
 # Iteration 22 (Released on December, 2023)
 - **Manage all variables** defined in your app from a single location. 
