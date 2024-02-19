@@ -1,3 +1,13 @@
+# February 2024 Release
+## Features
+- App Navigation with **Route Parameters**
+- Added **Dependent variables** support
+- Added **Static value input capabilities** for "set variable" action through **editors** (based on variable type)
+
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `17.0.x`**.
+- Bug fixes
+
 # December 2023 Release
 ## Features
 - **Manage all variables** defined in your app from a single location. 
