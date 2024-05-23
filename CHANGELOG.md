@@ -1,3 +1,18 @@
+# May 2024 Release
+## Features
+- **Update existing Datasource** to use the latest OpenAPI schema, and show differences if present.
+- Set up Data-action(s) to create, update and delete rows in **Tree-grid** component.
+- Update a variable based on row selection event in **Tree-grid** component.
+ 
+## Improvements
+- Added two-way data binding support to **Input, Checkbox, Switch, Date Picker, Calendar, Rating, and Slider components.**
+- Added **Tree component properties** for **single node expansion** and **toggle on item click**.
+- Added Search-style option for Input component
+- Angular apps are generated using [Ignite UI for Angular `17.2.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/17.2.0).
+- Web Component apps are generated using [Ignite UI for Web Components `4.9.0`](https://github.com/IgniteUI/igniteui-webcomponents/blob/4.9.0/CHANGELOG.md#490---2024-04-30).
+- Blazor apps are generated using [Ignite UI for Blazor `23.2.204`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor#232204).
+- Bug fixes
+
 # February 2024 Release
 ## Features
 - App Navigation with **Route Parameters**
