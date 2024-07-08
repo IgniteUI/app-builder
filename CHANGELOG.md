@@ -1,3 +1,19 @@
+# June 2024 Release
+## Features
+- Design and generate your apps for **React**.
+- Allow first-time visitors to use App Builder in **Guest-access mode**. Visitors can save their progress at any time by signing in with an account.
+
+## Improvements
+- Added two-way data binding support to **Select, Text-area and Radio-group components**.
+- Get notified of **updates to Datasources** that your app depends on, and view the changes.
+
+## Maintenance updates
+- Angular apps are generated using [Ignite UI for Angular `17.2.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/17.2.0).
+- React apps are generated using [Ignite UI for React `18.6.1`](https://github.com/IgniteUI/igniteui-react).
+- Web Component apps are generated using [Ignite UI for Web Components `4.9.0`](https://github.com/IgniteUI/igniteui-webcomponents/blob/4.9.0/CHANGELOG.md#490---2024-04-30).
+- Blazor apps are generated using [Ignite UI for Blazor `23.2.204`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor#232204).
+- Bug fixes
+
 # May 2024 Release
 ## Features
 - **Update existing Datasource** to use the latest OpenAPI schema, and show differences if present.
