@@ -1,21 +1,37 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- React code generation
-- Expose a package to distribute AppBuilder.Backend.Sdk
+- **Query Builder Component**
+- **UI Parts** (custom components)
 
 ## Going down the road
 - **App Builder SDK**
 - **Embedded integration**
-- **Query Builder Component**
 - **Forms builder**
 - **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
-- **UI Parts** (custom components)
 - Pivot configurator
 - New data connectors
 
+
+# Iteration 25 (Released on June, 2024)
+## Features
+- Design and generate your apps for **React**.
+- Allow first-time visitors to use App Builder in **Guest-access mode**. Visitors can save their progress at any time by signing in with an account
+- Added two-way data binding support to **Select, Text-area and Radio-group components**.
+- Get notified of **updates to Datasources** that your app depends on, and view the changes
+
+
+# Iteration 24 (Released on May, 2024)
+- **Update existing Datasource** to use the latest OpenAPI schema, and show differences if present.
+- Set up Data-action(s) to create, update and delete rows in **Tree-grid** component.
+- Update a variable based on row selection event in **Tree-grid** component.
+- Added two-way data binding support to **Input, Checkbox, Switch, Date Picker, Calendar, Rating, and Slider components.**
+- Added **Tree component properties** for **single node expansion** and **toggle on item click**.
+- Added Search-style option for Input component
+- Expose a package to distribute AppBuilder.Backend.Sdk for specific type of Infragistics license 
+
 ## Previous Iterations
-# Iteration 23 (Released on February, 2023)
+# Iteration 23 (Released on February, 2024)
 - App Navigation with Route Parameters
 - Dependent variables support
 - Static value input capabilities for "set variable" action through editors (based on variable type)
