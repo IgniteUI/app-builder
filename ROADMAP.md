@@ -1,17 +1,26 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
 - **Query Builder Component**
+- **Forms builder**
 - **UI Parts** (custom components)
 
 ## Going down the road
 - **App Builder SDK**
 - **Embedded integration**
-- **Forms builder**
 - **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
 - Pivot configurator
 - New data connectors
 
+# Iteration 26 (Released on Angust, 2024)
+## Features
+- App Builder AI-driven image and data source generation.
+- Added CSS Grid Layout support.
+- Set global Application size and component based size.
+- Automatic background refresh of data sources upon updating your Rest API.
+- New data provider support - PostgreSQL (SDK and On-prem).
+- New drill-down picker for collections of data sources.
+- Exposed UI for Download/upload application template.
 
 # Iteration 25 (Released on June, 2024)
 ## Features
@@ -19,7 +28,6 @@
 - Allow first-time visitors to use App Builder in **Guest-access mode**. Visitors can save their progress at any time by signing in with an account
 - Added two-way data binding support to **Select, Text-area and Radio-group components**.
 - Get notified of **updates to Datasources** that your app depends on, and view the changes
-
 
 # Iteration 24 (Released on May, 2024)
 - **Update existing Datasource** to use the latest OpenAPI schema, and show differences if present.
