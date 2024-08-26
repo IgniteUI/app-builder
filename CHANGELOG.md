@@ -1,3 +1,15 @@
+# August 2024 Release
+## Features
+- App Builder AI-driven image and data source generation.
+- Added CSS Grid Layout support.
+- Set global Application size and component based size.
+- Automatic background refresh of data sources upon updating your Rest API.
+
+## Improvements
+- New data provider support - PostgreSQL (SDK and On-prem).
+- New drill-down picker for collections of data sources.
+- Exposed UI for Download/upload application template.
+
 # June 2024 Release
 ## Features
 - Design and generate your apps for **React**.
