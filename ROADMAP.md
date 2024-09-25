@@ -12,6 +12,13 @@
 - Pivot configurator
 - New data connectors
 
+
+# Iteration 27 (Released on September, 2024)
+## Features
+- CSS Grid layout elements re-parenting support.
+- Data source with mappings support allowing you to pick UI bindings through a interface when schema changes occur.
+- Grid remote paging support
+
 # Iteration 26 (Released on Angust, 2024)
 ## Features
 - App Builder AI-driven image and data source generation.
