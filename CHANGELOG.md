@@ -1,3 +1,26 @@
+# September 2024 Release
+## Features
+- **Real time updates for data sources** to ensure your app uses the latest REST API version.
+- Guided approach to **globally fix incompatible bindings** when relevant data source changes are detected
+- **Use AI to generate** data sources or images on demand!
+- Configure **remote paging** on the Grid component to fetch data from the server in chunks.
+- Create **layouts using CSS Grid** with template rows and columns along with CSS Flexbox.
+- **Adjust component sizes** individually (i.e., small, medium, large), or set a **global size** for your application theme.
+
+## Improvements
+- Improved **data source picker** to allow drill-down and filtering.
+- Added **support for PostgreSQL** when setting up App builder SDK or App Builder On-prem.
+- Download or upload applications as a JSON template.
+
+## Maintenance updates
+- Angular apps are generated using [Ignite UI for Angular `18.1.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/18.1.0).
+- React apps are generated using [Ignite UI for React `18.6.1`](https://github.com/IgniteUI/igniteui-react).
+- Web Component apps are generated using [Ignite UI for Web Components `4.11.1`](https://github.com/IgniteUI/igniteui-webcomponents/).
+- Blazor apps are generated using [Ignite UI for Blazor `23.2.257`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor).
+- Bug fixes
+
+[LEARN MORE](https://www.appbuilder.dev/blog/app-builder-release-ai-css-grid-layout-more)
+
 # August 2024 Release
 ## Features
 - App Builder AI-driven image and data source generation.
