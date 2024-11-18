@@ -1,7 +1,6 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
 - **Query Builder Component**
-- **Forms builder**
 - **UI Parts** (custom components)
 
 ## Going down the road
@@ -12,7 +11,15 @@
 - Pivot configurator
 - New data connectors
 
+# Iteration 28 (Released on November, 2024)
+## Features
+- **Form builder** - Build forms from scratch or automatically by dropping a REST data endpoint.
+- **New** default data source based on Northwind Rest API.
+- **New** US Presidential Election sample app.
 
+## Improvements
+- Improved UX for resolving theme and component sizes.
+- 
 # Iteration 27 (Released on September, 2024)
 ## Features
 - CSS Grid layout elements re-parenting support.
