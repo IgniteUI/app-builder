@@ -1,3 +1,21 @@
+# November 2024 Release
+## Features
+- **Form builder** - Build forms from scratch or automatically by dropping a REST data endpoint.
+- **New** default data source based on Northwind Rest API.
+- **New** US Presidential Election sample app.
+
+## Improvements
+- Improved UX for resolving theme and component sizes.
+
+## Maintenance updates
+- Angular apps are generated using [Ignite UI for Angular `18.2.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/18.2.0).
+- React apps are generated using [Ignite UI for React `18.7.4`](https://github.com/IgniteUI/igniteui-react).
+- Web Component apps are generated using [Ignite UI for Web Components `5.1.0`](https://github.com/IgniteUI/igniteui-webcomponents/).
+- Blazor apps are generated using [Ignite UI for Blazor `24.1.67`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor).
+- Bug fixes
+
+[LEARN MORE](https://www.appbuilder.dev/blog/app-builder-release-with-forms-builder)
+
 # September 2024 Release
 ## Features
 - **Real time updates for data sources** to ensure your app uses the latest REST API version.
