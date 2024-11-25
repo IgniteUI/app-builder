@@ -15,6 +15,7 @@
 - Web Component apps are generated using [Ignite UI for Web Components `5.1.0`](https://github.com/IgniteUI/igniteui-webcomponents/).
 - Blazor apps are generated using [Ignite UI for Blazor `24.1.67`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor).
 - Bug fixes
+
 [LEARN MORE](https://www.appbuilder.dev/blog/app-builder-release-with-forms-builder)
 
 ## Improvements
