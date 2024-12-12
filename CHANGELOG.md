@@ -1,3 +1,8 @@
+# December 2024 Release
+## Features
+- **Hierarchical Grid** as part of the toolbox
+- **GitHub Pages** Deployment
+
 # November 2024 Release
 ## Features
 - **Forms Builder**
