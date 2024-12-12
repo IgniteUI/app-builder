@@ -1,15 +1,21 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- **Query Builder Component**
+- **Query Builder Component
+- **Multiple Actions Support**
+- **Remote Paging in AB**
 - **UI Parts** (custom components)
 
 ## Going down the road
 - **App Builder SDK**
 - **Embedded integration**
-- **Hierarchical Grid** as part of the toolbox
 - **Dock Manager** as a layout setup - design surface
 - Pivot configurator
 - New data connectors
+
+# Iteration 29 (Released on December 9th, 2024)
+## Features
+- **Hierarchical Grid** as part of the toolbox
+- **GitHub Pages** Deployment
 
 # Iteration 28 (Released on November, 2024)
 ## Features
@@ -19,7 +25,7 @@
 
 ## Improvements
 - Improved UX for resolving theme and component sizes.
-- 
+
 # Iteration 27 (Released on September, 2024)
 ## Features
 - CSS Grid layout elements re-parenting support.
