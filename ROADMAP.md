@@ -1,16 +1,33 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- **Query Builder Component
-- **Multiple Actions Support**
-- **Remote Paging in AB**
-- **UI Parts** (custom components)
+- **Query Builder Component** in the Toolbox.
+- Building of **Compex Queries** through Query Variable
+- Reordering of **Multiple Actions**.
+- **Forms** Validation.
+- Hierarchical Grid **Load-on-demand** functionality
+- Set initial Advanced filtering state
 
 ## Going down the road
-- **App Builder SDK**
-- **Embedded integration**
-- **Dock Manager** as a layout setup - design surface
-- Pivot configurator
-- New data connectors
+- AI with Conversational Chat UI experience 
+- Enable **Child-level Routing**
+- **App Builder SDK** 
+- **UI Parts** (Custom components)
+- Enabling of more Grid features
+- 3rd Party Components
+- Repository expansion - Azure/AWS
+
+# Iteration 31 (Released on March 4th, 2025)
+## Features
+- Added **Remote Paging** support to allow apps to request paged data from API.
+- **Multiple-actions Support** - a single interaction (e.g., click, row selection) can now trigger multiple actions, enabling more complex workflows.
+- Grid **Summaries toggle** – Added a property to enable/disable summaries per column.
+- Added **Carousel component** to the component toolbox.
+- On Preview Environment - AI Views generation
+
+# Iteration 30 (Released on January 9th, 2025)
+## Features
+- Introduced **Indigo UI Kit for Figma**, seamlessly integrating with App Builder to visually design and generate code for Angular, React, Blazor, and Web Components.
+- Added **Automatic value binding** for Grid Column edit templates.
 
 # Iteration 29 (Released on December 9th, 2024)
 ## Features
