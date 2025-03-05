@@ -1,3 +1,178 @@
+# December 2024 Release
+## Features
+- **Hierarchical Grid** as part of the toolbox
+- **GitHub Pages** Deployment
+
+# November 2024 Release
+## Features
+- **Forms Builder**
+    - Use the HTML **Form component** to add or update records through a REST API.
+    - Auto-generate form based on OpenAPI schema or design it manually.
+- Use built-in **Northwind data source (OpenAPI)** containing endpoints for CRUD operations and support for URL parameters.
+- Added **sample app** to explore the historical timeline of US presidential elections since 1940.
+  
+## Improvements
+- Improved UX for resolving theme and component sizes.
+  
+## Maintenance updates
+- Angular apps are generated using [Ignite UI for Angular `18.2.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/18.2.0).
+- React apps are generated using [Ignite UI for React `18.7.4`](https://github.com/IgniteUI/igniteui-react).
+- Web Component apps are generated using [Ignite UI for Web Components `5.1.0`](https://github.com/IgniteUI/igniteui-webcomponents/).
+- Blazor apps are generated using [Ignite UI for Blazor `24.1.67`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor).
+- Bug fixes
+
+[LEARN MORE](https://www.appbuilder.dev/blog/app-builder-release-with-forms-builder)
+
+# September 2024 Release
+## Features
+- **Real time updates for data sources** to ensure your app uses the latest REST API version.
+- Guided approach to **globally fix incompatible bindings** when relevant data source changes are detected
+- **Use AI to generate** data sources or images on demand!
+- Configure **remote paging** on the Grid component to fetch data from the server in chunks.
+- Create **layouts using CSS Grid** with template rows and columns along with CSS Flexbox.
+- **Adjust component sizes** individually (i.e., small, medium, large), or set a **global size** for your application theme.
+
+## Improvements
+- Improved **data source picker** to allow drill-down and filtering.
+- Added **support for PostgreSQL** when setting up App builder SDK or App Builder On-prem.
+- Download or upload applications as a JSON template.
+
+## Maintenance updates
+- Angular apps are generated using [Ignite UI for Angular `18.1.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/18.1.0).
+- React apps are generated using [Ignite UI for React `18.6.1`](https://github.com/IgniteUI/igniteui-react).
+- Web Component apps are generated using [Ignite UI for Web Components `4.11.1`](https://github.com/IgniteUI/igniteui-webcomponents/).
+- Blazor apps are generated using [Ignite UI for Blazor `23.2.257`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor).
+- Bug fixes
+
+[LEARN MORE](https://www.appbuilder.dev/blog/app-builder-release-ai-css-grid-layout-more)
+
+# August 2024 Release
+## Features
+- App Builder AI-driven image and data source generation.
+- Added CSS Grid Layout support.
+- Set global Application size and component based size.
+- Automatic background refresh of data sources upon updating your Rest API.
+
+## Improvements
+- New data provider support - PostgreSQL (SDK and On-prem).
+- New drill-down picker for collections of data sources.
+- Exposed UI for Download/upload application template.
+
+# June 2024 Release
+## Features
+- Design and generate your apps for **React**.
+- Allow first-time visitors to use App Builder in **Guest-access mode**. Visitors can save their progress at any time by signing in with an account.
+
+## Improvements
+- Added two-way data binding support to **Select, Text-area and Radio-group components**.
+- Get notified of **updates to Datasources** that your app depends on, and view the changes.
+
+## Maintenance updates
+- Angular apps are generated using [Ignite UI for Angular `17.2.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/17.2.0).
+- React apps are generated using [Ignite UI for React `18.6.1`](https://github.com/IgniteUI/igniteui-react).
+- Web Component apps are generated using [Ignite UI for Web Components `4.9.0`](https://github.com/IgniteUI/igniteui-webcomponents/blob/4.9.0/CHANGELOG.md#490---2024-04-30).
+- Blazor apps are generated using [Ignite UI for Blazor `23.2.204`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor#232204).
+- Bug fixes
+
+# May 2024 Release
+## Features
+- **Update existing Datasource** to use the latest OpenAPI schema, and show differences if present.
+- Set up Data-action(s) to create, update and delete rows in **Tree-grid** component.
+- Update a variable based on row selection event in **Tree-grid** component.
+ 
+## Improvements
+- Added two-way data binding support to **Input, Checkbox, Switch, Date Picker, Calendar, Rating, and Slider components.**
+- Added **Tree component properties** for **single node expansion** and **toggle on item click**.
+- Added Search-style option for Input component
+- Angular apps are generated using [Ignite UI for Angular `17.2.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/17.2.0).
+- Web Component apps are generated using [Ignite UI for Web Components `4.9.0`](https://github.com/IgniteUI/igniteui-webcomponents/blob/4.9.0/CHANGELOG.md#490---2024-04-30).
+- Blazor apps are generated using [Ignite UI for Blazor `23.2.204`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor#232204).
+- Bug fixes
+
+# February 2024 Release
+## Features
+- App Navigation with **Route Parameters**
+- Added **Dependent variables** support
+- Added **Static value input capabilities** for "set variable" action through **editors** (based on variable type)
+
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `17.0.x`**.
+- Bug fixes
+
+# December 2023 Release
+## Features
+- **Manage all variables** defined in your app from a single location. 
+- Added **Financial Chart** to the component toolbox.
+- Added **Value Change** interaction event for **Date Picker** component.
+ 
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `16.1.11`**.
+- Added an option to **select all** endpoints when configuring an OpenAPI-based datasource. 
+- Bug fixes
+
+# October 2023 Release
+## Features
+- **Create and edit variables** to pass data between components (local vars) or views (global vars).
+- **Initialize value of array/object** variable from an API request.
+- Update target variable's value using **"Set Variable"** action, when defining a user interaction (event).
+- Use **"Selection changed"** or **"on Click"** events to update variables.
+- **Bind component properties** to variable's value or nested data-fields for object type variables.
+- **Bind component data** to API endpoints with URL params (path and query params).
+## Improvements
+- Bug fixes and general improvements.
+
+# August 2023 Release
+## Features
+- Added Combo **Single Selection** feature.
+- Added support for **Material Extended Icons**.
+- New Stepper **navigation actions**.
+- New Indigo.Design UI Kit for **Fluent 1.3**.
+- NewIndigo.Design UI Kit for **Material 1.3**.
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `16.0.15`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.15)).
+- Bug fixes and general improvements.
+
+# June 2023 Release
+## Features
+- Added **Grid Column Templating** - Header, Cell display and Cell editing
+- UI for browsing and navigation through schema entities in OpenAPI definition
+- Toolbox components linked to relevant help documentation
+## Improvements
+- Angular apps are generated using **Ignite UI for Angular `16.0.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.0))
+- Travel App: improvements for the background positioning of images
+- Bug fixes and general improvements.
+
+# May 2023 Release
+## Features
+- Added **Stepper** and **Reveal Dashboard** to the component toolbox.
+- Switch between **licensed vs. unlicensed packages** when generating apps.
+
+## Improvements
+- Improved layout heuristics to create **CSS Flexbox layouts from Figma designs** that use Auto-layout.
+- Updated **Figma plugin** to create apps using theme palette and **Dark theme**.
+- Automatically extract SVG and PNG as image assets when creating apps from Figma design files.
+- Unified dropdown in App menu to download design system resources and to join our Discord channel.
+- Updated **sample apps** - Travel app, Team Collaboration, Ecommerce Auto Shop and HR Portal.
+- Bug fixes and general improvements.
+
+# April 2023 Release
+## Improvements
+- New code generation for Combo, Select and Dialog components (Blazor)
+- New toggle for unlicensed code export
+- Sample application updates - Team Collaboration, Ecommerce Auto Shop
+- Focus on bug fixing and general improvements
+
+# March 2023 Release
+## Features
+- New sample application - Health Vault
+
+## Improvements
+- Figma import story enhancements
+- Figma Material UI Kit 1.2
+- Figma Plugin upgrade
+- Focus on bug fixing and general improvements
+- Design System Model upgrade
+
 # February 2023 Release
 ## Features
 

@@ -1,23 +1,132 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Grid **cell/header template**
-- App Builder **Embedded content** component
-- **Forms builder**
-- Stepper component
+- **Query Builder Component
+- **Multiple Actions Support**
+- **Remote Paging in AB**
+- **UI Parts** (custom components)
 
 ## Going down the road
-- **Hierarchical Grid** as part of the toolbox
-- **Master-detail**
+- **App Builder SDK**
+- **Embedded integration**
 - **Dock Manager** as a layout setup - design surface
-- **CSS grid** layout support
-- **UI Parts** (custom components)
-- **React** Code Generation
+- Pivot configurator
 - New data connectors
 
+# Iteration 29 (Released on December 9th, 2024)
+## Features
+- **Hierarchical Grid** as part of the toolbox
+- **GitHub Pages** Deployment
+
+# Iteration 28 (Released on November, 2024)
+## Features
+- **Form builder** - Build forms from scratch or automatically by dropping a REST data endpoint.
+- **New** default data source based on Northwind Rest API.
+- **New** US Presidential Election sample app.
+
+## Improvements
+- Improved UX for resolving theme and component sizes.
+
+# Iteration 27 (Released on September, 2024)
+## Features
+- CSS Grid layout elements re-parenting support.
+- Data source with mappings support allowing you to pick UI bindings through a interface when schema changes occur.
+- Grid remote paging support
+
+# Iteration 26 (Released on Angust, 2024)
+## Features
+- App Builder AI-driven image and data source generation.
+- Added CSS Grid Layout support.
+- Set global Application size and component based size.
+- Automatic background refresh of data sources upon updating your Rest API.
+- New data provider support - PostgreSQL (SDK and On-prem).
+- New drill-down picker for collections of data sources.
+- Exposed UI for Download/upload application template.
+
+# Iteration 25 (Released on June, 2024)
+## Features
+- Design and generate your apps for **React**.
+- Allow first-time visitors to use App Builder in **Guest-access mode**. Visitors can save their progress at any time by signing in with an account
+- Added two-way data binding support to **Select, Text-area and Radio-group components**.
+- Get notified of **updates to Datasources** that your app depends on, and view the changes
+
+# Iteration 24 (Released on May, 2024)
+- **Update existing Datasource** to use the latest OpenAPI schema, and show differences if present.
+- Set up Data-action(s) to create, update and delete rows in **Tree-grid** component.
+- Update a variable based on row selection event in **Tree-grid** component.
+- Added two-way data binding support to **Input, Checkbox, Switch, Date Picker, Calendar, Rating, and Slider components.**
+- Added **Tree component properties** for **single node expansion** and **toggle on item click**.
+- Added Search-style option for Input component
+- Expose a package to distribute AppBuilder.Backend.Sdk for specific type of Infragistics license 
+
 ## Previous Iterations
-## Iteration 15 (Released February, 2023)
+# Iteration 23 (Released on February, 2024)
+- App Navigation with Route Parameters
+- Dependent variables support
+- Static value input capabilities for "set variable" action through editors (based on variable type)
+
+# Iteration 22 (Released on December, 2023)
+- **Manage all variables** defined in your app from a single location. 
+- Added **Financial Chart** to the component toolbox.
+- Added **Value Change** interaction event for **Date Picker** component.
+- Angular apps are generated using **Ignite UI for Angular `16.1.11`**.
+- Added an option to **select all** endpoints when configuring an OpenAPI-based datasource.
+- Bug fixes and general improvements.
+
+# Iteration 21 (Released on October, 2023) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/master-detail-style-apps)
+- **Create and edit variables** to pass data between components (local vars) or views (global vars).
+- **Initialize value of array/object** variable from an API request.
+- Update target variable's value using **"Set Variable"** action, when defining a user interaction (event).
+- Use **"Selection changed"** or **"on Click"** events to update variables.
+- **Bind component properties** to variable's value or nested data-fields for object type variables.
+- **Bind component data** to API endpoints with URL params (path and query params).
+- Bug fixes and general improvements.
+
+# Iteration 20 (Released August, 2023) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-grid-column-templates)
+- Added Combo **Single Selection** feature.
+- Added support for **Material Extended Icons**.
+- New Stepper **navigation actions**.
+- New Indigo.Design UI Kit for **Fluent 1.3**.
+- NewIndigo.Design UI Kit for **Material 1.3**.
+- Angular apps are generated using **Ignite UI for Angular `16.0.15`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.15)).
+- Bug fixes and general improvements.
+
+# Iteration 19 (Released June, 2023)
+- Added **Grid Column Templating** - Header, Cell display and Cell editing
+- UI for browsing and navigation through schema entities in OpenAPI definition
+- Toolbox components linked to relevant help documentation
+- Angular apps are generated using **Ignite UI for Angular `16.0.0`** ([Changelog](https://github.com/IgniteUI/igniteui-angular/releases/tag/16.0.0))
+- Travel App: improvements for the background positioning of images
+- Bug fixes and general improvements.
+
+## Iteration 18 (Released May, 2023)
+- Added **Stepper** and **Reveal Dashboard** to the component toolbox.
+- Added new **sample app** - Health Vault.
+- Switch between **licensed vs. unlicensed packages** when generating apps.
+- Improved layout heuristics to create **CSS Flexbox layouts from Figma designs** that use Auto-layout.
+- Updated **Figma Material UI Kit** to **v1.3**.
+- Updated **Figma plugin** to create apps using theme palette and **Dark theme**.
+- Automatically extract SVG and PNG as image assets when creating apps from Figma design files.
+- Unified dropdown in App menu to download design system resources and to join our Discord channel.
+- Updated **sample apps** - Travel app, Team Collaboration, Ecommerce Auto Shop and HR Portal.
+
+## Iteration 17 (Released April, 2023)
+- Blazor code generation for **Combo**, **Select** and **Dialog** components.
+- New toggle for unlicensed code export
+- Sample application updates - Team Collaboration, Ecommerce Auto Shop
+- Focus on bug fixing and general improvements
+- Design System Model upgrade to 4.7.4
+
+## Iteration 16 (Released March, 2023)
+- New sample application - Health Vault
+- Figma import story enhancements
+- Released new version of [**Indigo.Design UI kit** for Figma](https://www.figma.com/@infragistics).
+- Released new version of [Figma plugin](https://www.figma.com/community/plugin/1170035114372031474).
+- Focus on bug fixing and general improvements
+- Design System Model upgrade to 4.7.3
+
+## Iteration 15 (Released February, 2023) - [Blog](https://www.infragistics.com/community/blogs/b/infragistics/posts/app-builder-release-with-grid-crud-operations-nested-iterators-and-more)
 - Configure REST API methods **POST/PUT/DELETE** when creating a datasource based on **OpenAPI** definition.
-- New **Data-action** for creating, updating, and deleting records in **Grid** and **Tree-Grid** component.
+- New **Data-action** for creating, updating, and deleting records in **Grid** component.
 - Use Hierarchical type data in **Tree-Grid** and **Tree** component.
 - Added support for **nested data-binding** when repeating components based on hierarchical data.
 - Group and aggregate data in **Category chart** when repeated labels are present.
