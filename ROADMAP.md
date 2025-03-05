@@ -4,10 +4,10 @@
 - Building of **Compex Queries** through Query Variable
 - Reordering of **Multiple Actions**.
 - **Forms** Validation.
-- Hierarchical Grid **Load-on-demand** functionality
-- Set initial Advanced filtering state
 
 ## Going down the road
+- **Load-on-demand** functionality - Hierarchical Grid, Tree Grid and Tree
+- Set Grid Initial Advanced Filtering State
 - AI with Conversational Chat UI experience 
 - Enable **Child-level Routing**
 - **App Builder SDK** 
