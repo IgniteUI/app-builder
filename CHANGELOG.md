@@ -1,3 +1,15 @@
+# March 2025 Release
+## Features
+- Added **Remote Paging** support to allow apps to request paged data from API.
+- **Multiple-actions Support** - a single interaction (e.g., click, row selection) can now trigger multiple actions, enabling more complex workflows.
+- Grid **Summaries toggle** – Added a property to enable/disable summaries per column.
+- Added **Carousel component** to the component toolbox.
+
+# January 2025 Release
+## Features
+- Introduced **Indigo UI Kit for Figma**, seamlessly integrating with App Builder to visually design and generate code for Angular, React, Blazor, and Web Components.
+- Added **Automatic value binding** for Grid Column edit templates.
+
 # December 2024 Release
 ## Features
 - **Hierarchical Grid** as part of the toolbox
