@@ -1,7 +1,7 @@
 # Ignite UI App Builder
 [Join our Discord group!](https://discord.gg/39MjrTRqds)
 
-[Ignite UI App Builder](https://www.infragistics.com/products/appbuilder) is a cloud-based WYSIWYG drag & drop tool that streamlines everything in software development from design to code, allowing you to build business apps faster than ever before. With features that both designers and developers love, the low-code platform brings a toolbox of 60+ reusable UI controls and integrates a complete design system - Indigo.Design. 
+[Ignite UI App Builder](https://appbuilder.dev/) is a cloud-based WYSIWYG drag & drop tool that streamlines everything in software development from design to code, allowing you to build business apps faster than ever before. With features that both designers and developers love, the low-code platform brings a toolbox of 60+ reusable UI controls and integrates a complete design system - Indigo.Design. 
 
 - You can start your app from scratch. 
 - Choose from a library of pre-built templates or responsive screen layouts and customize them easily. 
@@ -10,7 +10,7 @@
 - Preview code and generate production-ready code in Angular and Blazor. 
 - Use data in your app - Data Binding, Swagger UI Support (OpenAPI). 
 
-Try the [web app now](https://appbuilder.indigo.design/), [download](https://www.infragistics.com/products/appbuilder) the Desktop application from our page, or read the [official App Builder Documentation Page](https://www.infragistics.com/products/appbuilder/help/getting-started) to see how to get started. 
+Try the [web app now](https://appbuilder.indigo.design/), [download](https://appbuilder.dev/) the Desktop application from our page, or read the [official App Builder Documentation Page](https://www.appbuilder.dev/help/getting-started) to see how to get started. 
 
 _**This repository is intended for issues and feature requests submission, as well as for general product discussions and questions.**_
 
