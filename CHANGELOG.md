@@ -1,3 +1,13 @@
+# End of March 2025 Release
+## Features
+- **Conversational AI Experience** for app creation. Only on [App Builder Preview Website](https://preview.appbuilder.dev/).
+- Added **Initial Advanced Filtering** support to all Grids.
+- New **Query Variable** type - A specialized variable that interacts with data sources, dynamically filtering large datasets through API requests with server-side filtering for optimal performance. Only on [App Builder Preview Website](https://preview.appbuilder.dev/).
+- Added **Query Builder component** to the component toolbox. Only on [App Builder Preview Website](https://preview.appbuilder.dev/).
+- **Reorder Actions** – Customize the execution order of actions triggered by component interactions.
+- Forms Reset capabilities in generated applications.
+- Disabled Summaries Support for Blazor, React and Web Components.
+
 # March 2025 Release
 ## Features
 - Added **Remote Paging** support to allow apps to request paged data from API.
