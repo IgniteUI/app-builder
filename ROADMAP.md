@@ -1,7 +1,7 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Reordering of **Multiple Actions**.
-- **Forms** Validation.
+- Conditional **Multiple Actions**.
+- App Builder Validation - Grid, Form and other form/input based components.
 - Repository expansion - Azure
 - **Load-on-demand** functionality - Hierarchical Grid
 - Enable **Child-level Routing**
