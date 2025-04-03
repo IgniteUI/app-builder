@@ -1,20 +1,26 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- **Query Builder Component** in the Toolbox.
-- Building of **Compex Queries** through Query Variable
 - Reordering of **Multiple Actions**.
 - **Forms** Validation.
+- Repository expansion - Azure
+- **Load-on-demand** functionality - Hierarchical Grid
+- Enable **Child-level Routing**
+- Enabling of more Grid Component features
 
 ## Going down the road
-- **Load-on-demand** functionality - Hierarchical Grid, Tree Grid and Tree
-- Set Grid Initial Advanced Filtering State
-- AI with Conversational Chat UI experience 
-- Enable **Child-level Routing**
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
-- Enabling of more Grid features
 - 3rd Party Components
-- Repository expansion - Azure/AWS
+
+# Iteration 32 (Released on March 31st, 2025)
+## Features
+- **Conversational AI Experience** for app creation. Only on [App Builder Preview Website](https://preview.appbuilder.dev/).
+- Added **Initial Advanced Filtering** support to all Grids.
+- New **Query Variable** type - A specialized variable that interacts with data sources, dynamically filtering large datasets through API requests with server-side filtering for optimal performance. Only on [App Builder Preview Website](https://preview.appbuilder.dev/).
+- Added **Query Builder component** to the component toolbox. Only on [App Builder Preview Website](https://preview.appbuilder.dev/).
+- **Reorder Actions** – Customize the execution order of actions triggered by component interactions.
+- Forms Reset capabilities in generated applications.
+- Disabled Summaries Support for Blazor, React and Web Components.
 
 # Iteration 31 (Released on March 4th, 2025)
 ## Features
