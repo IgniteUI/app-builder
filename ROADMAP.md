@@ -1,16 +1,22 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
 - Conditional **Multiple Actions**.
-- App Builder Validation - Grid, Form and other form/input based components.
-- Repository expansion - Azure
-- **Load-on-demand** functionality - Hierarchical Grid
-- Enable **Child-level Routing**
-- Enabling of more Grid Component features
+- Grid Master-detail template.
+- Enabling of more Grid Component features.
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
+
+
+# Iteration 33 (Released on May 27, 2025)
+## Features
+- **Generative AI** for creating Application Views.
+- Added **Remote Paging** support to allow apps to request paged data from API.
+- **Multiple-actions Support** - a single interaction (e.g., click, row selection) can now trigger multiple actions, enabling more complex workflows.
+- Grid **Summaries toggle** – Added a property to enable/disable summaries per column.
+- Added **Carousel component** to the component toolbox.
 
 # Iteration 32 (Released on March 31st, 2025)
 ## Features
