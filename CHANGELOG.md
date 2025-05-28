@@ -1,3 +1,11 @@
+# May 2025 Release
+## Features
+- **Generative AI** for creating Application Views.
+- Added **Remote Paging** support to allow apps to request paged data from API.
+- **Multiple-actions Support** - a single interaction (e.g., click, row selection) can now trigger multiple actions, enabling more complex workflows.
+- Grid **Summaries toggle** – Added a property to enable/disable summaries per column.
+- Added **Carousel component** to the component toolbox.
+
 # End of March 2025 Release
 ## Features
 - **Conversational AI Experience** for app creation. Only on [App Builder Preview Website](https://preview.appbuilder.dev/).
