@@ -12,11 +12,11 @@
 
 # Iteration 33 (Released on May 27, 2025)
 ## Features
-- **Generative AI** for creating Application Views.
-- Added **Remote Paging** support to allow apps to request paged data from API.
-- **Multiple-actions Support** - a single interaction (e.g., click, row selection) can now trigger multiple actions, enabling more complex workflows.
-- Grid **Summaries toggle** – Added a property to enable/disable summaries per column.
-- Added **Carousel component** to the component toolbox.
+- Hierarchical Grid **Load-on-demand** functionality, configured through RowIslands with separate data requests, loading child data only when needed.
+- Added **Child-level Routing** support using the Views Container within nested routes for richer navigation.
+- Added **Input Validation** support across Form, Grid, and standalone Input components, enabling use of minLength, maxLength, pattern, min, and max attributes.
+- **Multi-column Headers** and **Collapsible Column Groups** functionality that allows grouping multiple columns under a single header.
+- Added **Azure DevOps Integration** that allows you to publish apps directly to your DevOps repositories. [Help docs](https://www.appbuilder.dev/help/generate-app/azure-integration).
 
 # Iteration 32 (Released on March 31st, 2025)
 ## Features
