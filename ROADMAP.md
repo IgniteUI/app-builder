@@ -1,7 +1,9 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Conditional **Multiple Actions**.
+- Multiple data actions executed based on a condition.
 - Grid Master-detail template.
+- Child-level routing with query params.
+- Query Builder Library for .NET to enable easy API Integration.
 - Enabling of more Grid Component features.
 
 ## Going down the road
