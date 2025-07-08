@@ -1,3 +1,10 @@
+# June 2025 Release
+## Features
+- Added **Spanish language support**.
+- Introduced additional variants for **Icon button** — contained, outlined, and flat.
+- Enabled **Conditional Actions** for Data Actions, allowing forms and grids to perform different logic based on action outcomes.
+- Introduced **Grid Master-Detail** Template.
+
 # May 2025 Release
 ## Features
 - Hierarchical Grid **Load-on-demand** functionality, configured through RowIslands with separate data requests, loading child data only when needed.
