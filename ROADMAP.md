@@ -1,16 +1,26 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Multiple data actions executed based on a condition.
-- Grid Master-detail template.
-- Child-level routing with query params.
 - Query Builder Library for .NET to enable easy API Integration.
-- Enabling of more Grid Component features.
+- Empty Grid template and Loading Indicator template.
+- New Component in the toolbox - Apex Chart
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
 
+# Iteration 34 (Released on June 26, 2025)
+## Features
+- Added **Spanish language support**.
+- Introduced additional variants for **Icon button** — contained, outlined, and flat.
+- Enabled **Conditional Actions** for Data Actions, allowing forms and grids to perform different logic based on action outcomes.
+- Introduced **Grid Master-Detail** Template.
+
+## Maintenance updates
+- Angular apps are generated using [Ignite UI for Angular `20.0.0`](https://github.com/IgniteUI/igniteui-angular/releases/tag/20.0.0).
+- React apps are generated using [Ignite UI for React `19.0.0`](https://github.com/IgniteUI/igniteui-react).
+- Web Component apps are generated using [Ignite UI for Web Components `6.1.0`](https://github.com/IgniteUI/igniteui-webcomponents/).
+- Blazor apps are generated using [Ignite UI for Blazor `24.2.85`](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-changelog-dv-blazor).
 
 # Iteration 33 (Released on May 27, 2025)
 ## Features
