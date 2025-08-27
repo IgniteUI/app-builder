@@ -1,13 +1,30 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- Query Builder Library for .NET to enable easy API Integration.
-- Empty Grid template and Loading Indicator template.
-- New Component in the toolbox - Apex Chart
+- New Component in the toolbox - ApexGrid
+- New **Query Variable** type - A specialized variable that interacts with data sources, dynamically filtering large datasets through API requests with server-side filtering for optimal performance. For now available only on [Preview](https://preview.appbuilder.dev/).
+- Added **Query Builder component** to the component toolbox.  For now available only on [Preview](https://preview.appbuilder.dev/).
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
+
+# Iteration 35 (To be released on August 28, 2025; Available on [Preview](https://preview.appbuilder.dev/)
+## Features
+- Added **ApexCharts** to the component toolbox.
+- **Pivot Grid** now auto-generates dimensions and values from data fields for a ready-to-use pivot view.
+- Added **Empty Grid Template** and **Loading Indicator Template**.
+- Added **Selected List Item** support, applying selected styling and storing the chosen value for later use.
+- Query Builder Library for .NET to enable easy API Integration.
+
+## AI Features on [Preview](https://preview.appbuilder.dev/)
+- **Pinned Chat History** – Pin/unpin chats to easily revisit key sessions.
+- **Contextual Editing** – Click a UI element to edit it directly via AI chat.
+- **Component Indicator** – See which UI element is selected below the chat.
+- **Canvas Loading Feedback** – New indicator shows when prompts are processing.
+- **AI on Home Page** – Explore prompt cards and a personalized prompt gallery.
+- **Prompt Gallery Improvements** – Filter and find useful prompts faster.
+- **Image Upload Support** – Upload images via icon, drag & drop, or paste.
 
 # Iteration 34 (Released on June 26, 2025)
 ## Features
