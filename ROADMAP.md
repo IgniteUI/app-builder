@@ -9,7 +9,7 @@
 - **UI Parts** (Custom components)
 - 3rd Party Components
 
-# Iteration 35 (To be released on August 28, 2025; Available on [Preview](https://preview.appbuilder.dev/)
+# Iteration 35 (To be released on August 28, 2025; Available on [Preview](https://preview.appbuilder.dev/))
 ## Features
 - Added **ApexCharts** to the component toolbox.
 - **Pivot Grid** now auto-generates dimensions and values from data fields for a ready-to-use pivot view.
