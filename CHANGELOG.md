@@ -1,3 +1,19 @@
+# August Release (available on [Preview](https://preview.appbuilder.dev/), production release planned for 28th of August)
+## Features
+- Added **ApexCharts** to the component toolbox.
+- **Pivot Grid** now auto-generates dimensions and values from data fields for a ready-to-use pivot view.
+- Added **Empty Grid Template** and **Loading Indicator Template**.
+- Added **Selected List Item** support, applying selected styling and storing the chosen value for later use.
+
+## AI Features on [Preview](https://preview.appbuilder.dev/)
+- **Pinned Chat History** – Pin/unpin chats to easily revisit key sessions.
+- **Contextual Editing** – Click a UI element to edit it directly via AI chat.
+- **Component Indicator** – See which UI element is selected below the chat.
+- **Canvas Loading Feedback** – New indicator shows when prompts are processing.
+- **AI on Home Page** – Explore prompt cards and a personalized prompt gallery.
+- **Prompt Gallery Improvements** – Filter and find useful prompts faster.
+- **Image Upload Support** – Upload images via icon, drag & drop, or paste.
+
 # June 2025 Release
 ## Features
 - Added **Spanish language support**.
