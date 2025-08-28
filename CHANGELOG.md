@@ -1,4 +1,4 @@
-# August Release (available on [Preview](https://preview.appbuilder.dev/), production release planned for 28th of August)
+# August Release
 ## Features
 - Added **ApexCharts** to the component toolbox.
 - **Pivot Grid** now auto-generates dimensions and values from data fields for a ready-to-use pivot view.
