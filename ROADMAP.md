@@ -1,15 +1,19 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
 - New Component in the toolbox - ApexGrid
-- New **Query Variable** type - A specialized variable that interacts with data sources, dynamically filtering large datasets through API requests with server-side filtering for optimal performance. For now available only on [Preview](https://preview.appbuilder.dev/).
-- Added **Query Builder component** to the component toolbox.  For now available only on [Preview](https://preview.appbuilder.dev/).
+- New **Query Variable** type - A specialized variable that interacts with data sources, dynamically filtering large datasets through API requests with server-side filtering for optimal performance. For now available only on [Preview](https://preview.appbuilder.dev/) without code generation.
+- Added **Query Builder component** to the component toolbox.  For now available only on [Preview](https://preview.appbuilder.dev/) without code generation.
+- Conditional Actions for more interactions, also:
+   - Exposing a way to perform data-action within if-else block condition
+   - Support for Nested If-Else Logic
+   - Parameterized Child Action Execution
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
 
-# Iteration 35 (To be released on August 28, 2025; Available on [Preview](https://preview.appbuilder.dev/))
+# Iteration 35 (Expected release - beginning of September; Already available on [Preview](https://preview.appbuilder.dev/))
 ## Features
 - Added **ApexCharts** to the component toolbox.
 - **Pivot Grid** now auto-generates dimensions and values from data fields for a ready-to-use pivot view.
