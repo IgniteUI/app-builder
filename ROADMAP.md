@@ -7,6 +7,7 @@
    - Exposing a way to perform data-action within if-else block condition
    - Support for Nested If-Else Logic
    - Parameterized Child Action Execution
+- List and NavDrawer components will now exposes new appearance properties.
 
 ## Going down the road
 - **App Builder SDK** 
