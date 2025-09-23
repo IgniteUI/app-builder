@@ -1,3 +1,7 @@
+# September Release
+## Features
+- **Conditional Logic for General Actions** now enables nested If-Else, multi-branch conditions, conditional deletes with prompts, and dynamic parameter passing for more flexible data action flows.
+
 # August Release
 ## Features
 - Added **ApexCharts** to the component toolbox.
