@@ -14,6 +14,10 @@
 - **UI Parts** (Custom components)
 - 3rd Party Components
 
+# Iteration 36
+## Features
+- **Conditional Logic for General Actions** now enables nested If-Else, multi-branch conditions, conditional deletes with prompts, and dynamic parameter passing for more flexible data action flows.
+
 # Iteration 35
 ## Features
 - Added **ApexCharts** to the component toolbox.
