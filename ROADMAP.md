@@ -3,22 +3,18 @@
 - New Component in the toolbox - Apex Gantt
 - New **Query Variable** type - A specialized variable that interacts with data sources, dynamically filtering large datasets through API requests with server-side filtering for optimal performance. For now available only on [Preview](https://preview.appbuilder.dev/) without code generation.
 - Added **Query Builder component** to the component toolbox.  For now available only on [Preview](https://preview.appbuilder.dev/) without code generation.
-- Conditional Actions for more interactions, also:
-   - Exposing a way to perform data-action within if-else block condition
-   - Support for Nested If-Else Logic
-   - Parameterized Child Action Execution
-- List and NavDrawer components will now exposes new appearance properties.
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
 
-# Iteration 36
+# Iteration 36 (September, 2025)
 ## Features
-- **Conditional Logic for General Actions** now enables nested If-Else, multi-branch conditions, conditional deletes with prompts, and dynamic parameter passing for more flexible data action flows.
+- **Conditional Logic for General Actions** now enables nested If-Else, multi-branch conditions, conditional deletes with prompts, and dynamic parameter passing for more flexible data action flows.n
+- List and NavDrawer components will now exposes new appearance properties.
 
-# Iteration 35
+# Iteration 35 (August, 2025)
 ## Features
 - Added **ApexCharts** to the component toolbox.
 - **Pivot Grid** now auto-generates dimensions and values from data fields for a ready-to-use pivot view.
