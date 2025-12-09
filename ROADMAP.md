@@ -1,13 +1,20 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
+- Design-Time Error and Warning System
 - New Component in the toolbox - Apex Gantt
-- New **Query Variable** type - A specialized variable that interacts with data sources, dynamically filtering large datasets through API requests with server-side filtering for optimal performance. For now available only on [Preview](https://preview.appbuilder.dev/) without code generation.
 - Added **Query Builder component** to the component toolbox.  For now available only on [Preview](https://preview.appbuilder.dev/) without code generation.
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
+
+# Iteration 37 (October, 2025)
+## Features
+- **AI-powered design** - Generate multi-view apps with navigation using AI chat. Seamlessly iterate on existing UIs in context without disrupting other parts of your app. Upload images or screenshots to create complete UIs with custom themes.
+- **Richer CRM Sample App** – Expanded CRM app with enhanced Home, Reports, Deals, and Support views for faster customization and prototyping.
+- **Quick Add Enhancements** – Smarter search and insertion for charts, sliders, and inputs; adds the exact type you search for (e.g., Line Chart) and remembers recent selections.
+- **List Item Selection** – Enhanced selection capabilities for both dynamically and manually created lists.
 
 # Iteration 36 (September, 2025)
 ## Features
