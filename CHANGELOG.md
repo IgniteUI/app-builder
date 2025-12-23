@@ -1,3 +1,10 @@
+# December 2025 Release
+## Features
+- Centralized Notification UI aggregates **design-time errors and warnings**, helping you quickly identify and resolve issues in your app (e.g., broken bindings, missing resources)
+- Added **Query Builder component** for Angular apps, enabling complex filtering logic. Use it as a standalone UI or as an advanced variable editor.
+- Redesigned "Create New App" Dialog: A "beautified" modern interface now includes a Prompt Gallery for inspiration and a Your Prompts tab to easily reuse previous inputs.
+- Our AI generation has been optimized to deliver better structural accuracy across full-page blog posts, dynamic image galleries (and carousels), and Kanban boards featuring refined column and task card apps.
+
 # November 2025 Release
 ## Features
 - **AI-powered design** - Generate multi-view apps with navigation using AI chat. Seamlessly iterate on existing UIs in context without disrupting other parts of your app. Upload images or screenshots to create complete UIs with custom themes.
