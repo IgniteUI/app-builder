@@ -18,7 +18,6 @@
 
 # August Release
 ## Features
-- Added **ApexCharts** to the component toolbox.
 - **Pivot Grid** now auto-generates dimensions and values from data fields for a ready-to-use pivot view.
 - Added **Empty Grid Template** and **Loading Indicator Template**.
 - Added **Selected List Item** support, applying selected styling and storing the chosen value for later use.
