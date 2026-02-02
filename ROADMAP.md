@@ -1,11 +1,18 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
-- New Component in the toolbox - Apex Gantt
+- App Builder Versioning
+- New Component in the toolbox - Tooltip
+- AI: Figma to Code - Import Figma designs and generate application views with AI assistance
+- AI: Enhanced UX flow for the AI App Creationg Dialog
+- AI: Introduce generation for actions: toggle, set variable and conditional actions
+- AI generation improvements when working with Lists, Cards, Grids, Kanban views
+- Introduce Navigation Tabs component for child routing
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
+- New Component in the toolbox - Apex Gantt
 
 # Iteration 38 (December, 2025)
 ## Features
