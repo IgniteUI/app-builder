@@ -1,18 +1,26 @@
 # Roadmap - Ignite UI App Builder
 ## Current Iteration
 - App Builder Versioning
-- New Component in the toolbox - Tooltip
-- AI: Figma to Code - Import Figma designs and generate application views with AI assistance
-- AI: Enhanced UX flow for the AI App Creationg Dialog
-- AI: Introduce generation for actions: toggle, set variable and conditional actions
-- AI generation improvements when working with Lists, Cards, Grids, Kanban views
-- Introduce Navigation Tabs component for child routing
 
 ## Going down the road
 - **App Builder SDK** 
 - **UI Parts** (Custom components)
 - 3rd Party Components
 - New Component in the toolbox - Apex Gantt
+
+# Iteration 39 (February, 2025)
+## Features
+- Introduced a **Navigation Tabs component** that enables tab-based navigation and automatic selection based on the active route.
+- Added **Grid Lite component** to the toolbox as a lightweight option for displaying tabular data.
+
+## AI in App Builder
+- Added a collapsible “Edit with AI” adorner that enables contextual AI editing directly from selected components on the canvas.
+- Introduced new pre-built templates for login, registration, and contact forms to accelerate page creation.
+- Enhanced the AI progress indicator to clearly reflect the generation scope.
+
+## Improvements
+- Added flexible width and height sizing support for the Card component with improved default dimensions and layout behavior.
+- Added support for controlling and binding the Stepper step **isValid property** to improve validation workflows.
 
 # Iteration 38 (December, 2025)
 ## Features
